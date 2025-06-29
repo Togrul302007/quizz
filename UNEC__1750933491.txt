@@ -1,0 +1,7965 @@
+01006_En_Y25_Əyani_Modul 2_Yekun imtahan testinin sualları Fənn : 01006 Alqoritmin qurulması və analizi
+Which of the following is an example of an algorithm with quadratic time complexity?
+
+1.
+•
+•
+•
+√
+
+•
+
+Which of the following is an example of an algorithm with quadratic time complexity?
+
+2.
+•
+•
+•
+•
+√
+
+Radix sort
+Heap sort
+Quick sort
+Merge sort
+Bubble sort
+Which of the following is an example of an algorithm with logarithmic time complexity?
+
+3.
+√
+
+•
+•
+•
+•
+
+Binary search
+Radix sort
+Bubble sort
+Insertion sort
+Heap sort
+Which of the following is an example of an algorithm with linear time complexity?
+
+4.
+•
+√
+
+•
+•
+•
+
+Selection sort
+Binary search
+Merge sort
+Quick sort
+Bubble sort
+Which of the following is NOT a common complexity class for algorithms?
+
+5.
+•
+•
+√
+
+•
+•
+
+O(n^3)
+O(n)
+O(n!)
+O(log n)
+O(1)
+Which of the following is NOT a common algorithm analysis technique?
+
+6.
+√
+
+•
+•
+•
+•
+
+Enumeration
+Worst-case analysis
+Amortized analysis
+Average-case analysis
+Best-case analysis
+Which of the following is NOT a common algorithm design technique?
+
+7.
+•
+•
+•
+√
+
+•
+8.
+
+Quick sort
+Heap sort
+Merge sort
+Selection sort
+Radix
+
+Brute force
+Randomization
+Dynamic programming
+Enumeration
+Divide and conquer
+What does Big O notation describe?
+
+•
+•
+•
+√
+
+•
+
+The performance of an algorithm for a specific input size
+The performance of an algorithm on a specific computer
+The best-case performance of an algorithm
+The worst-case performance of an algorithm
+The average-case performance of an algorithm
+What does Big Omega notation describe?
+
+9.
+•
+•
+•
+√
+
+•
+
+The performance of an algorithm for a specific input size
+The average-case performance of an algorithm
+The worst-case performance of an algorithm
+The best-case performance of an algorithm
+The performance of an algorithm on a specific computer
+What does Big Theta notation describe?
+
+10.
+•
+•
+•
+•
+√
+
+The performance of an algorithm on a specific computer
+The performance of an algorithm for a specific input size
+The worst-case performance of an algorithm
+The best-case performance of an algorithm
+The average-case performance of an algorithm
+Which of the following is a key characteristic of an algorithm?
+
+11.
+•
+•
+•
+•
+√
+
+It must always produce the same output
+It must be created by a team of computer scientists
+It must be written in a specific programming language
+It is only applicable to computer science problems
+It must have a finite number of steps
+What is an algorithm?
+
+12.
+•
+•
+√
+
+•
+•
+
+A computer program that can learn from experience
+A type of software used for creating digital art
+A step-by-step procedure for solving a problem or executing a task
+A method for analyzing the performance of a computer program
+A structure for storing data in a computer program
+What is a prerequisite for using binary search on an array?
+
+13.
+•
+•
+•
+√
+
+•
+
+The array must be of even length
+The array must contain integers only
+The array must be sorted in ascending order
+The array must not contain any duplicate elements
+The array must be sorted in descending order
+What is the best-case time complexity of binary search on a sorted array?
+
+14.
+•
+•
+•
+√
+
+•
+
+O(n log n)
+O(log n)
+O(n^2)
+O(1)
+O(n)
+What is the time complexity of linear search on an unsorted array?
+
+15.
+•
+•
+•
+√
+
+O(n^3)
+O(n log n)
+O(n^2)
+O(n)
+
+•
+
+O(2^n)
+What is the worst-case time complexity of binary search on a sorted array?
+
+16.
+•
+•
+•
+√
+
+•
+
+O(n log n)
+O(n^2)
+O(n)
+O(log(n))
+O(1)
+What is the best-case time complexity of the binary search algorithm?
+
+17.
+•
+•
+•
+•
+√
+
+O(n^2)
+O(n log n)
+O(log n)
+O(n)
+O(1)
+What is the worst-case time complexity of the binary search algorithm?
+
+18.
+•
+•
+•
+√
+
+•
+
+O(n^2)
+O(1)
+O(n)
+O(log n)
+O(n log n)
+Which of the following is a searching algorithm that only works on a sorted array?
+
+19.
+•
+•
+•
+√
+
+•
+
+None of them
+Breadth-first search
+Linear search
+Binary search
+Depth-first search
+Which of the following is a disadvantage of linear search?
+
+20.
+•
+•
+√
+
+•
+•
+
+Not easy to understand
+Not easy to implement
+Greater time complexities compared to other searching algorithms
+Requires more space
+No one above
+What is the best case and worst case complexity of ordered linear search if every element use only one time?
+
+21.
+•
+√
+
+•
+•
+
+O(n), O(1)
+O(1), O(n)
+O(nlogn), O(logn)
+O(logn), O(nlogn)
+What is the worst case for linear search?
+
+22.
+•
+√
+
+•
+•
+•
+
+O(1)
+O(n)
+O(logn)
+O(nlogn)
+O(n^2)
+What is the best case for linear search if every element use only one time?
+
+23.
+√
+
+O(1)
+
+•
+•
+•
+
+O(n^2)
+O(n)
+O(logn)
+Where is linear searching used?
+
+24.
+•
+•
+•
+•
+√
+
+Never use
+Used all the time
+When the list has only a few elements
+When performing a single search in an unordered list
+When the list has only a few elements and when performing a single search in an unordered list
+Which of the following is a disadvantage of the decrease and conquer approach?
+
+25.
+√
+
+•
+•
+•
+•
+
+It can lead to stack overflow errors
+It is less efficient than other problem-solving strategies
+None of them
+It is not effective for large datasets
+It requires a lot of memory
+Which of the following is an example of a problem that can be solved using the decrease and conquer approach?
+
+26.
+•
+•
+•
+√
+
+•
+
+Finding the maximum flow in a flow network
+Sorting an array in ascending order
+Finding the shortest path between two nodes in a graph
+Finding the maximum subarray in an array
+None of them
+Which of the following is NOT a step in the decrease and conquer approach?
+
+27.
+•
+•
+•
+•
+√
+
+Solve the smaller instance
+Reduce the problem to a smaller instance
+Combine the solutions to the smaller instances
+None of them
+Solve the original problem instance
+Which of the following is a problem-solving strategy that involves reducing a problem to a smaller instance of the same problem?
+
+28.
+•
+•
+•
+√
+
+•
+
+Greedy algorithms
+Divide and conquer
+Dynamic programming
+Decrease and conquer
+None of them
+Which of the following is a technique used to reduce the worst-case time complexity of quick sort?
+
+29.
+•
+•
+√
+
+•
+•
+
+None of them
+Bottom-up implementation
+Randomization
+Memoization
+Dynamic programming
+Which of the following is an example of a problem that can be solved using the quick sort algorithm?
+
+30.
+•
+•
+•
+√
+
+•
+
+Finding the maximum flow in a flow network
+None of them
+Finding a specific element in a sorted array
+Sorting an array in desending order
+Finding the shortest path between two nodes in a graph
+
+Which of the following is an example of a problem that can be solved using the quick sort algorithm?
+
+31.
+√
+
+•
+•
+•
+•
+
+Sorting an array in ascending order
+None of them
+Finding a specific element in a sorted array
+Finding the shortest path between two nodes in a graph
+Finding the maximum flow in a flow network
+Which of the following is a disadvantage of the bottom-up implementation of merge sort?
+
+32.
+•
+•
+•
+√
+
+•
+
+It is less efficient than the recursive implementation
+It has a higher worst-case time complexity
+None of them
+It requires more memory
+It is more difficult to implement
+Which of the following is a technique used to reduce the worst-case time complexity of merge sort?
+
+33.
+•
+•
+√
+
+•
+•
+
+Randomization
+None of them
+Bottom-up implementation
+Memoization
+Dynamic programming
+Which of the following is an example of a problem that can be solved using the divide and conquer approach?
+
+34.
+•
+•
+•
+•
+√
+
+Finding a specific element in a unsorted array
+None of them
+Finding the shortest path between two nodes in a graph
+Finding the maximum flow in a flow network
+Sorting an array in ascending order
+Which of the following is an example of a problem that can be solved using the linear search algorithm?
+
+35.
+•
+•
+√
+
+•
+•
+
+None of them
+Finding the maximum flow in a flow network
+Finding a specific element in an unsorted list
+Sorting an array in ascending order
+Finding the shortest path between two nodes in a graph
+Which of the following is a problem that can be solved using the linear search algorithm?
+
+36.
+•
+•
+√
+
+•
+•
+
+None of them
+Finding the maximum flow in a flow network
+Finding a specific element in a unsorted array
+Sorting an array in ascending order
+Finding the shortest path between two nodes in a graph
+If there are two nested for loops in the algorithm, what will be of complexity when solving by the brute force approach?
+
+37.
+√
+
+•
+•
+•
+•
+
+O(n^2)
+O(n)
+O(logn)
+O(n^3)
+O(nlogn)
+If there are three nested for loops in the algorithm, what will be of complexity when solving by the brute force approach?
+
+38.
+•
+•
+
+O(logn)
+O(n)
+
+√
+
+•
+•
+
+O(n^3)
+O(nlogn)
+O(n^2)
+How many criterias does the algorithm have?
+
+39.
+•
+•
+•
+√
+
+•
+
+6
+3
+1
+4
+2
+What is the basic operation of the Euclidean algorithm used to find the greatest common divisor?
+
+40.
+√
+
+•
+•
+•
+•
+
+Subtraction
+Multipiling
+None of them
+Addition
+Powering operation
+What is the primary difference between Merge Sort and Quick Sort?
+
+41.
+•
+•
+•
+•
+√
+
+Merge Sort is a stable sorting algorithm, while Quick Sort is not
+Merge Sort is a comparison-based sort, while Quick Sort is not
+Merge Sort is an in-place sorting algorithm, while Quick Sort is not
+Merge Sort is slower than Quick Sort in practice
+Merge Sort has a better worst-case time complexity than Quick Sort
+Which of the following are considered system-independent parameters?
+
+42.
+•
+•
+√
+
+•
+•
+
+Algorithm, OS
+Input data, CPU
+Algorithm, Input data
+Algorithm, memory
+Input data, memory
+Which of the following are considered system-dependent parameters?
+
+43.
+•
+•
+•
+√
+
+•
+
+Algorithm, CPU, OS
+Algorithm, input data, memory
+Input data, memory, CPU,
+Memory, CPU, OS
+Input data, algorithm, CPU
+Which of the following are considered system-dependent parameters?
+
+44.
+•
+•
+•
+√
+
+•
+
+Input data, algorithm, CPU
+Input data, memory, CPU,
+Algorithm, input data, memory
+Memory, CPU, cache
+Algorithm, CPU, OS
+Which of the following are considered system-dependent parameters?
+
+45.
+•
+•
+√
+
+•
+•
+
+Input data, algorithm, CPU
+Algorithm, CPU, OS
+Memory, CPU, interpreter
+Input data, memory, CPU,
+Algorithm, input data, memory
+
+Which of the following are considered system-dependent parameters?
+
+46.
+•
+•
+•
+√
+
+•
+
+Algorithm, CPU, OS
+Input data, memory, CPU,
+Algorithm, input data, memory
+Memory, CPU, compiler
+Input data, algorithm, CPU
+Which of the following are considered system-dependent parameters?
+
+47.
+•
+•
+√
+
+•
+•
+
+Hardware, Software, Algorithm
+Hardware, Software, Input data
+Hardware, Software, System
+Hardware, Input data, System
+Algorithm, Software, System
+[3,7,9,12,16,33,42,46,50] if searched for 7 in the given array by Binary search wich index will be high value in the 2nd period?
+
+48.
+•
+•
+•
+•
+√
+
+7th index
+0-th index
+8th index
+4th index
+3th index
+Which of the following is not an application of binary search?
+
+49.
+•
+•
+√
+
+•
+
+Debugging
+To find the lower/upper bound in an ordered sequence
+To search in unordered list
+Union of intervals
+What is the average case time complexity of binary search using recursion?
+
+50.
+•
+•
+√
+
+•
+•
+
+O(n^2logn)
+O(n^2)
+O(logn)
+O(n)
+O(nlogn)
+What is the worst case complexity of binary search using recursion?
+
+51.
+•
+•
+√
+
+•
+•
+
+O(n^2logn)
+O(n^2)
+O(logn)
+O(nlogn)
+O(n)
+Given an array arr = {45,77,89,90,94,99,100} and key = 99; what are the mid values(corresponding array elements) in the first and
+second levels of recursion in Binary search?
+
+52.
+•
+•
+•
+•
+√
+
+89 and 99
+45 and 100
+90 and 94
+89 and 94
+90 and 99
+Given an input arr = {2,5,7,99,899}; key = 899; What is the level of recursion in Binary search?
+
+53.
+•
+•
+
+1
+5
+
+•
+√
+
+•
+
+What is the best-case time complexity of Merge Sort?
+
+54.
+•
+•
+√
+
+•
+•
+
+O(1/2logn)
+O(n)
+O(1/2nlogn)
+O(n^3/2)
+O(n^2)
+What is the avarage-case time complexity of Merge Sort?
+
+55.
+•
+•
+•
+√
+
+•
+
+O(logn)
+O(n^3/2)
+O(n^2)
+O(nlogn)
+O(n)
+What is the worst-case time complexity of Merge Sort?
+
+56.
+•
+•
+•
+•
+√
+
+O(n)
+O(n^2)
+O(logn)
+O(n^3/2)
+O(nlogn)
+Which of the following stable sorting algorithm takes the least time when applied to an almost sorted array?
+
+57.
+•
+•
+√
+
+•
+
+Quick sort
+Insertion sort
+Merge sort
+Selection sort
+Which of the following is not a stable sorting algorithm?
+
+58.
+√
+
+•
+•
+•
+
+Quick sort
+Merge sort
+Bubble sort
+Cocktail sort
+Which of the following is not in place sorting algorithm by default?
+
+59.
+•
+•
+•
+√
+
+•
+
+quick sort
+insertion sort
+Selection sort
+merge sort
+heap sort
+What is the average case running time of an insertion sort algorithm?
+
+60.
+•
+•
+•
+•
+√
+
+61.
+
+2
+3
+4
+
+O(log N)
+O(N^3)
+O(N log N)
+O(N)
+O(N^2)
+How many passes does an insertion sort algorithm consist of?
+
+•
+•
+•
+√
+
+•
+
+N^3
+N+1
+N^2
+N-1
+N
+If the array[7,10,5,3,8,4,2,9,6] is sorted by the insertion sorting, at wich index will the number 4 be located after the 3rd loop?
+
+62.
+•
+•
+•
+•
+√
+
+1st index
+8th index
+3rd index
+2nd index
+5th index
+If the [7,12,8,6,5,22,18] array is sorted by the insertion sort, mark the already sorted part of array after 4th loop.
+
+63.
+•
+•
+•
+√
+
+•
+
+[5,6,7,18]
+[5,6,7,12]
+[6,7,8,12]
+[5,6,7,8,12]
+[5,6,7,8,18]
+If the array [7,10,5,3,8,4,2,9,6] is sorted by the selection sorting, at wich index will the number 10 be located after the 2nd loop?
+
+64.
+•
+•
+•
+√
+
+•
+
+1st index
+5th index
+2nd index
+3rd index
+8th index
+What is the best case complexity of selection sort?
+
+65.
+•
+•
+•
+√
+
+•
+
+O(n^3)
+O(n)
+O(logn)
+O(n^2)
+O(nlogn)
+The given array is arr = {3,4,5,2,1}. The number of iterations in bubble sort and selection sort respectively are __________
+
+66.
+√
+
+•
+•
+•
+•
+
+5 and 4
+6 and 4
+2 and 5
+4 and 5
+2 and 4
+What is the disadvantage of selection sort?
+
+67.
+•
+√
+
+•
+•
+
+It can be used for small keys
+It is not scalable
+It takes linear time to sort the elements
+It requires auxiliary memory
+What is the average case complexity of selection sort?
+
+68.
+•
+•
+•
+•
+√
+
+O(logn)
+O(n)
+O(n^3)
+O(nlogn)
+O(n^2)
+
+What is the advantage of selection sort over other sorting techniques?
+
+69.
+√
+
+•
+•
+•
+
+It requires no additional storage space
+It is scalable
+It is faster than any other sorting technique
+It works best for inputs which are already sorted
+What is the worst case complexity of selection sort?
+
+70.
+√
+
+•
+•
+•
+•
+
+O(n^2)
+O(logn)
+O(n^3)
+O(n)
+O(nlogn)
+In the following scenarios, when will you use selection sort?
+
+71.
+•
+•
+•
+•
+√
+
+The input is pre-sorted
+The input is already sorted
+Small values need to be sorted with large keys
+A large file has to be sorted
+Large values need to be sorted with small keys
+If all the weights of the graph are positive, then the minimum spanning tree of the graph is a minimum cost
+
+72.
+•
+•
+√
+
+•
+
+False
+None of them
+True
+All of them
+Consider a complete graph G with 4 vertices. The graph G has ____ spanning trees.
+
+73.
+•
+•
+•
+√
+
+•
+
+13
+15
+8
+16
+2
+Which of the following is false in the case of a spanning tree of a graph G?
+
+74.
+•
+•
+√
+
+•
+
+It is a subgraph of the G
+It includes every vertex of the G
+It can be either cyclic or acyclic
+It is tree that spans G
+What is the basic operation of the Euclidean algorithm used to find the greatest common divisor?
+
+75.
+•
+•
+•
+√
+
+•
+
+Multipiling
+Powering operation
+None of them
+Dividing
+Addition
+If Hibbard increments (h1= 1, h2= 3, h3= 7, …, hk = 2k–1) are used in a Shell sort implementation, then the best case time complexity
+will be ________
+
+76.
+•
+•
+√
+
+O(n^3)
+O(n^2)
+O(n log n)
+
+•
+•
+
+Shell sort is an improvement on ____
+
+77.
+•
+•
+•
+√
+
+•
+
+selection sort
+Merge sort
+quick sort
+insertion sort
+binary tree sort
+Shell sort is applied on the elements 27 59 49 37 15 90 81 39 and the chosen decreasing sequence of increments is (5,3,1). The result
+after the first iteration will be...
+
+78.
+•
+•
+•
+√
+
+•
+
+27 59 49 37 15 90 81 39
+15 59 49 39 27 90 81 37
+15 59 49 37 27 90 81 39
+27 59 39 37 15 90 81 49
+27 59 37 49 15 90 81 39
+Statement 1: Shell sort is a stable sorting algorithm. Statement 2: Shell sort is an in-place sorting algorithm.
+
+79.
+•
+√
+
+•
+•
+
+Both statements are false
+Statement 2 is true but statement 1 is false
+Statement 2 is false but statement 1 is true
+Both statements are true
+What is the worst case analysis of shell sort using Shell’s increments?
+
+80.
+•
+•
+•
+√
+
+•
+
+O(n^1/2)
+O(n)
+O(N^3/2)
+O(n^2)
+O(logn)
+What is the general form of Shell’s increments?
+
+81.
+•
+•
+•
+√
+
+1,5,10,15,…, k-1
+1,2,3,…,n
+1,3,5,7,….,k-1
+1,3,7,….,2k-1
+What is the worst case running time of shell sort using Hibbard’s increments?
+
+82.
+•
+•
+•
+•
+√
+
+O(logn)
+O(n^1/2)
+O(n^2)
+O(n)
+O(N^3/2)
+If a node having two children is to be deleted from binary search tree, it is replaced by its
+
+83.
+•
+•
+•
+•
+√
+
+84.
+
+O(n^2logn)
+O(n log n^2)
+
+None
+All
+Pre-order predecessor
+In-order predecessor
+In-order successor
+Which type of traversal of binary search tree outputs the value in sorted order?
+
+•
+•
+•
+√
+
+•
+
+Pre-order
+All
+None
+In-order
+Post-order
+In full binary search tree every internal node has exactly two children. If there are 100 leaf nodes in the tree, how many internal nodes
+are there in the tree?
+
+85.
+•
+•
+•
+√
+
+•
+
+100
+49
+25
+99
+101
+Which of the following statement about binary tree is CORRECT?
+
+86.
+√
+
+•
+•
+•
+
+Every full binary tree is also a complete binary tree
+A binary tree cannot be both complete and full
+Every binary tree is either complete or full
+Every complete binary tree is also a full binary tree
+Suppose a binary tree is constructed with n nodes, such that each node has exactly either zero or two children. The maximum height of
+the tree will be?
+
+87.
+•
+•
+•
+√
+
+•
+
+(n+1)/2 -1
+(n+1)/2
+n/2 -1
+(n-1)/2
+(n+1)/2 -2
+The difference between the external path length and the internal path length of a binary tree with n internal nodes is?
+
+88.
+•
+•
+•
+•
+√
+
+-1
+n+1
+n
+1
+2n
+The no of external nodes in a full binary tree with n internal nodes is?
+
+89.
+•
+•
+•
+√
+
+•
+
+n
+2n - 1
+2n + 1
+n+1
+2n
+Replace the deleted node with the node whose value is ____to that of the deleted node if the deletion node only has two children?
+
+90.
+•
+•
+√
+
+•
+•
+
+None
+Infinite
+Closest
+Behind
+Farthest
+The ____element of the root node should be replaced with the root node to delete it?
+
+91.
+•
+•
+√
+
+None
+Behind
+Closest
+
+•
+•
+
+Our goal is to find the nearest value, so we move left first, then right as far as possible. The node nearest to us is called the ____?
+
+92.
+•
+√
+
+•
+•
+
+Nearest Predecessor
+Immediate Predecessor
+Farthest Predecessor
+Closest Predecessor
+Nodes with no children can be deleted by replacing them with ___, which is very simple to do?
+
+93.
+•
+•
+•
+•
+√
+
+Edges
+Root
+Nodes
+Endpoints
+Null
+Depending on the number of children of the deleted node, there are ____ ways to delete an ITEM from a binary search tree?
+
+94.
+•
+•
+•
+•
+√
+
+Four
+Two
+Five
+Multiple
+Three
+The ITEM is inserted as the ____ child of the node if its value is greater than the node, and as the ____ child if its value is less than the
+node?
+
+95.
+•
+•
+•
+•
+√
+
+Root, Left
+Left, Right
+Left, Root
+Right, Root
+Right, Left
+What is the best case time complexity of the binary tree sort?
+
+96.
+•
+•
+•
+•
+√
+
+O(1)
+O(n)
+O(n^2lg(n))
+O(logn)
+O(nlogn)
+What is the worst case time complexity of the binary tree sort?
+
+97.
+•
+•
+•
+•
+√
+
+O(logn)
+O(1)
+O(n^2lg(n))
+O(nlogn)
+O(n)
+In binary tree sort, we first construct the BST and then we perform _______ traversal to get the sorted order.
+
+98.
+•
+•
+•
+√
+
+99.
+
+Infinite
+Farthest
+
+level order
+postorder
+preorder
+inorder
+Consider the original array 17 8 12 4 26. How many comparisons are needed to construct the BST on the original array?
+
+•
+•
+•
+•
+√
+
+5
+9
+7
+4
+10
+What is the expected number of leaves in a randomized binary search tree?
+
+100.
+•
+•
+•
+√
+
+•
+
+(n + 1)/4
+(n + 1)/2
+n+3
+(n + 1)/3
+n+1
+If binary trees are represented in arrays, what formula can be used to locate a left child, if the node has an index i?
+
+101.
+√
+
+•
+•
+•
+•
+
+2i+1
+2i/5
+4i
+2i+2
+2i
+How many orders of traversal are applicable to a binary tree (In General)?
+
+102.
+•
+√
+
+•
+•
+•
+
+2
+3
+6
+4
+1
+The average depth of a binary tree is given as?
+
+103.
+•
+•
+•
+√
+
+•
+
+O(n)
+O(n^2lg(n))
+O(nlg(n))
+O(log N)
+O(n^2)
+What is a full binary tree?
+
+104.
+•
+•
+•
+√
+
+•
+
+Each node has exactly zero children
+Each node has exactly two children
+All the leaves are at the same level
+Each node has exactly zero or two children
+Each node has exactly one or two children
+The number of edges from the node to the deepest leaf is called _________ of the tree.
+
+105.
+√
+
+•
+•
+•
+
+Height
+Width
+Depth
+Length
+The number of edges from the root to the node is called __________ of the tree.
+
+106.
+•
+√
+
+•
+•
+
+Height
+Depth
+Width
+Length
+
+Which of the following sorting algorithms can be considered as improvement to the binary tree sort?
+
+107.
+√
+
+•
+•
+•
+
+Heap sort
+Insertion sort
+Selection sort
+Quick sort
+The algorithm is given in verbal form:
+1) S=0;
+2) C=1;
+3) If S > 8 then go to point 5);
+4) S=S+C,C=C+1 and go to point 3)
+5) Print C;
+6) End.
+After the execution of the algorithm, the variable C will assume the value…
+
+108.
+
+•
+•
+•
+√
+
+•
+
+24
+10
+24
+5
+32
+
+The algorithm is given in verbal form:
+1) Input n;
+2) P=1, i=5;
+3) P=P+i, i=i-1
+4) If i > n then go to point 3);
+5) Print P;
+6) End.
+If n=3, what will be the value of P?
+
+109.
+
+•
+•
+•
+√
+
+•
+
+40
+35
+28
+10
+36
+The algorithm is given in verbal form:
+1) Input n;
+2) P=1, i=10;
+3) P=P+i, i=i-1
+4) If i > n then go to point 3);
+5) Print P;
+6) End.
+If n=6, what will be the value of P?
+
+110.
+
+•
+•
+•
+√
+
+•
+
+36
+28
+10
+35
+41
+The algorithm is given in verbal form:
+1) Input n;
+2) P=1;
+3) If n>0 then go to point 5);
+4) P=P*n, n=n+2 and go to point 3)
+5) Print P;
+6) End.
+If n=-6, what will be the value of P?
+
+111.
+
+√
+
+•
+•
+•
+•
+
+0
+1
+24
+-48
+-24
+
+The algorithm is given in verbal form:
+1) Input n;
+2) P=1;
+3) If n>=0 then go to point 5);
+4) P=P*n, n=n+2 and go to point 3)
+5) Print P;
+6) End.
+If n=-6, what will be the value of P?
+
+112.
+
+•
+√
+
+•
+•
+•
+
+-24
+-48
+1
+0
+24
+The algorithm is given in verbal form:
+1) Start;
+2) Input x;
+3) z=3, i=0;
+4) z=z+x/2;
+5) i=i+1;
+6) If i<=3 then go to point 4;
+7) Print z;
+8) End.
+If x=2, what is the value of z?
+
+113.
+
+•
+√
+
+•
+•
+•
+
+13
+7
+9
+11
+5
+The algorithm is given in verbal form:
+1) Start;
+2) Input x;
+3) z=10, i=0;
+4) z=2*z+3x/2;
+5) i=i+1;
+6) If i<=2 then go to point 4;
+7) Print z;
+8) End.
+If x=8, what is the value of z?
+
+114.
+
+√
+
+•
+•
+•
+•
+
+164
+340
+692
+506
+76
+The algorithm is given in verbal form:
+1) Start;
+2) Input x;
+3) z=5, i=0;
+4) z=2*z+x/4;
+5) i=i+1;
+6) If i<=3 then go to point 4;
+7) Print z;
+8) End.
+If x=6, what is the value of z?
+
+115.
+
+•
+√
+
+•
+•
+•
+
+206,5
+102,5
+11,5
+24,5
+50,5
+
+The algorithm is given in verbal form:
+1) Start;
+2) Input x;
+3) z=5, i=0;
+4) z=z+x/2;
+5) i=i+1;
+6) If i<=2 then go to point 4;
+7) Print z;
+8) End.
+If x=6, what is the value of z?
+
+116.
+
+•
+√
+
+•
+•
+•
+
+12
+14
+13
+11
+15
+The algorithm is given in verbal form:
+1) Start;
+2) Input x;
+3) z=3, i=0;
+4) z=z+x/2;
+5) i=i+1;
+6) If i<=3 then go to point 4);
+7) Print z;
+8) End.
+If x=4, what is the value of z?
+
+117.
+
+•
+•
+•
+√
+
+•
+
+5
+9
+13
+11
+7
+Indicate the value of the variable k after executing the loop: k=5; for I=2 to 5 do k=k+1;
+
+118.
+√
+
+•
+•
+•
+•
+
+9
+10
+2
+5
+4
+The algorithm is given in verbal form:
+1) Start;
+2) Input a;
+3) s=0, i=1;
+4) s=s+1/i;
+5) If s > a then go to point 7);
+6) i=i+1 go to point 4)
+7) Print s;
+8) End.
+If a=2, what is the value of s?
+
+119.
+
+•
+•
+•
+•
+√
+
+20/9
+19/10
+19/9
+24/11
+25/12
+As a result of executing the assignment operators c:=10; d:=2; f:=c*d; f:=f/d; d:=c-d; c:=f-d; the variables c, d, f will take the following
+values respectively:
+
+120.
+•
+•
+•
+√
+
+•
+
+2,10,8
+10,2,8
+8,10,2
+2,8,10
+8,2,10
+
+As a result of the algorithm's execution a =4, b =2, c =5, d=3; if c < b then c= a+b else d=a-c. What is the sum of a+b+c+d?
+
+121.
+•
+•
+•
+√
+
+•
+
+33
+18
+22
+10
+23
+As a result of the algorithm's execution a =3, b =4, c =5, d=6; if c < d then d= a+3 else c=a-3. What is the sum of a+b+c+d?
+
+122.
+•
+•
+•
+√
+
+•
+
+23
+22
+19
+18
+33
+As a result of the algorithm's execution a =10, b =11, c =12, d=13; if b < a then c=2c else c=2-d. What is the sum of a+b+c+d?
+
+123.
+•
+•
+√
+
+•
+•
+
+10
+54
+23
+42
+24
+As a result of the algorithm's execution a =10, b =11, c =12, d=13; if a< b then c= c+d else c=c-d. What is the sum of a+b+c+d?
+
+124.
+•
+•
+•
+•
+√
+
+23
+34
+27
+17
+59
+As a result of the algorithm's execution a =3, b =4, c =5, d=6; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?
+
+125.
+•
+•
+•
+•
+√
+
+7
+9
+11
+8
+21
+As a result of the algorithm's execution a =7, b =5, c =3, d=1; if b<c then d= a+3 else c=c+a. What is the sum of a+b+c+d?
+
+126.
+•
+•
+•
+•
+√
+
+34
+55
+44
+42
+23
+As a result of the algorithm's execution a =1, b =3, c =5, d=7; if a< b then a= a+3 else c=c+a. What is the sum of a+b+c+d?
+
+127.
+•
+•
+•
+•
+√
+
+34
+55
+51
+42
+19
+As a result of the algorithm's execution a =5, b =14, c =2, d=7; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?
+
+128.
+•
+•
+
+34
+55
+
+•
+•
+√
+
+19
+42
+29
+As a result of the algorithm's execution a =13, b =14, c =15, d=16; if c < b then d= a+3 else c=c+a. What is the sum of a+b+c+d?
+
+129.
+•
+•
+•
+√
+
+•
+
+83
+17
+52
+71
+74
+а=3,b=4, с=5, d=6; if c < b, then d=a+3, otherwise c=c+a. As a result of the execution of the algorithm, what is the sum of a+b+c+d?
+
+130.
+•
+•
+•
+√
+
+•
+
+22
+20
+18
+21
+19
+a=12, b=21, c=10. If a>b then a=a+3: c=c+a: otherwise c:=a+b+c/2. As a result of the execution of the algorithm, what is the value of
+the variable c?
+
+131.
+•
+•
+•
+•
+√
+
+25
+84
+64
+43
+38
+If x=3.5 and y=2.4, what will be the values of x and y after executing the operations x=x+y, y=x-y, x=x-y?
+
+132.
+•
+√
+
+•
+•
+•
+
+2.4 и 2.4
+2.4 и 3.5
+3.5 и 2.4
+3.4 и 2.5
+3.5 и 3.5
+If x=5.2 and y=18.7, what will be the values of x and y after executing the operations t=x, x=y, y=t?
+
+133.
+•
+•
+•
+√
+
+•
+
+5.7 и 18.7
+5.7 и 18.2
+5.2 и 17.7
+18.7 и 5.2
+5..2 и 18.2
+The initial values of the elements A(3) and A(4) of the array are A(3)=2 and A(4)=3. After performing the operations b=A(3),
+A(3)=A(4), A(4)=b what will be the values of the elements A(3) and A(4)?
+
+134.
+•
+•
+•
+•
+√
+
+A(3)=0,A(4)=3
+A(3)=3,A(4)=0
+A(3)=2,A(4)=2
+A(3)=3,A(4)=3
+A(3)=3,A(4)=2
+What is the data structure that allows access to any element at any time and using indices?
+
+135.
+•
+•
+•
+•
+
+граф
+множество
+очеред
+запись
+
+√
+
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+n*n*n, T(1)=1, n=2,3,.... What equals T(4)?
+
+136.
+•
+•
+•
+√
+
+•
+
+256
+150
+50
+100
+80
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+n*n, T(1)=1, n=2,3,.... What equals T(5)?
+
+137.
+•
+•
+•
+√
+
+•
+
+25
+35
+15
+55
+85
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+1/(n(n-1)), T(1)=0, n=2,3,.... What equals the sum T(2)+T(3)+T(4)?
+
+138.
+√
+
+•
+•
+•
+•
+
+23/12
+19/15
+17/16
+22/13
+21/14
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+2n-1, T(1)=0, n=2,3,.... What equals T(10)?
+
+139.
+•
+•
+•
+√
+
+•
+
+119
+69
+59
+99
+109
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+2n-1, T(0)=1, n=2,3,.... What equals T(9)+T(8)?
+
+140.
+√
+
+•
+•
+•
+•
+
+147
+146
+148
+145
+149
+The sequence of numbers is given by the formulas: T(n)=T(n-1)+1, T(1)=0, n=2,3,... What equals T(6)+T(7)+T(8)?
+
+141.
+•
+•
+•
+√
+
+•
+
+20
+17
+16
+18
+19
+Show incorrect recurrence equation
+
+142.
+•
+√
+
+•
+•
+•
+143.
+
+массив
+
+T(n)=T(n-1)+T(n-2)
+T(n)=T(n-1)+T(n+1)
+T(n)=nT(n-1)
+T(n)=T(n-1)+1
+T(n)=T(n-1)+n
+Show the correct recurrence equation
+
+•
+•
+√
+
+•
+•
+
+T(n)=T(n-1)+T(n+3)
+T(n)=2T(n-1)+T(n+1)
+T(n)=T(n-1)+n
+T(n)=T(n-1)+T(n+1)
+T(n)=T(n-1)+T(n+5)
+There is an unordered array of n elements. How many comparisons with the worst case should be performed for searching?
+
+144.
+•
+•
+•
+√
+
+•
+
+2n
+n+1
+n-1
+n
+1
+There is an unordered array of n elements. How many comparisons in the best case should be performed for searching?
+
+145.
+•
+•
+•
+•
+√
+
+n+1
+2n
+n
+n-1
+1
+The main advantage of linear search:
+
+146.
+•
+•
+•
+√
+
+•
+
+Short run time
+high speed
+Ability to work effectively with large amounts of data
+Algorithmic simplicity
+Ability to work with organized data
+There is an ordered integer array of 512 elements. How many comparison operations are required in a binary search to determine that
+the requested data does not exist in this array?
+
+147.
+•
+•
+√
+
+•
+•
+
+8
+10
+9
+5
+7
+There is an ordered array of 32 integers. How many comparison operations are needed in a binary search to establish the fact of the
+absence of the desired data in this array?
+
+148.
+•
+•
+•
+•
+√
+
+10
+1
+8
+16
+5
+Which type of sorting is more efficient?
+
+149.
+•
+•
+•
+√
+
+•
+
+Insertion Sort
+Shell
+Bubble Sort
+Quisk Sort
+Selection Sort
+Which type of sorting is less efficient?
+
+150.
+•
+•
+
+Selection Sort
+Insertion Sort
+
+√
+
+•
+•
+
+Bubble Sort
+Quisk Sort
+Shell
+If the array "bdac" is sorted by selection, the following passes will be obtained.
+
+151.
+•
+•
+•
+√
+
+•
+
+First pass: a d b c; Second pass: a b d c; Third pass: d b c a.
+First pass: a d b c; Second pass: a c d b; Third pass: a b c d.
+First pass: c d b a; Second pass: a c d b; Third pass: a b c d.
+First pass: a d b c; Second pass: a b d c; Third pass: a b c d.
+First pass: c d b a; Second pass: a b b c; Third pass: a b c d.
+Which expression characterizes the efficiency of search in a binary search tree?
+
+152.
+•
+•
+•
+√
+
+•
+
+O(N)
+O(N*N)
+O(N/2)
+O(log2N)
+O(1)
+By which formula is the complexity of the linear search algorithm calculated in the average case?
+
+153.
+√
+
+•
+•
+•
+•
+
+(n+1)/2
+(2n-1)/2
+(n-1)/2
+(2n+1)/2
+(n-2)/2
+On what type of sorting is Shell Sort based?
+
+154.
+•
+•
+•
+√
+
+•
+
+Şeyker
+MergeSort
+Selection Sort
+İnsertion Sort
+Bubble Sort
+During the sorting process, the entire array and each of its parts are divided into two parts. What is the sorting algorithm?
+
+155.
+•
+•
+•
+√
+
+•
+
+Insertion Sort
+Bubble Sort
+Shell sort
+Quisk Sort
+Selection Sort
+Which of the following algorithms is an algorithm for constructing a minimum spanning tree of a weighted connected undirected graph:
+1. Dijkstra's algorithm
+2. Floyd's algorithm
+3. Kruskal's algorithm
+4. Prim's algorithm
+
+156.
+
+•
+•
+√
+
+•
+•
+
+2,3
+1,4
+3,4
+1,3
+1,2
+Kruskal's algorithm...
+
+157.
+•
+
+Refers to breadth-first search algorithms.
+
+•
+√
+
+•
+•
+
+Represents an algorithm for finding the shortest distance from one vertex to all other vertices in a directed and undirected weighted
+graph.
+Starts with selecting the edge with the smallest weight
+Does not depend on which vertex of the graph is initially chosen.
+Algorithm for finding shortest paths between all pairs of vertices in directed and undirected weighted graphs.
+How many nodes does a full binary tree with 10 levels have?
+
+158.
+•
+•
+√
+
+•
+•
+
+2048
+511
+2047
+1023
+1024
+How many levels does a full binary tree with 127 nodes have?
+
+159.
+•
+•
+•
+•
+√
+
+10
+5
+6
+8
+7
+How many nodes does a full binary tree with k levels have?
+
+160.
+•
+•
+•
+•
+√
+
+2k
+2^(k+1)
+2^k
+4k
+2^(k+1)-1
+Arcs in a graph...
+
+161.
+•
+•
+•
+•
+√
+
+Adjacent edges.
+No correct answers.
+Undirected edges.
+Multiple edges.
+Directed edges
+Algorithms are used to construct a spanning tree of a graph.
+
+162.
+•
+•
+•
+•
+√
+
+Hamiltonian.
+Euler.
+Dijkstra and Floyd.
+Heron.
+Kruskal and Prim
+A tree is...
+
+163.
+•
+•
+•
+•
+√
+
+Directed connected graph.
+No correct answers.
+Directed disconnected graph.
+Graph with adjacent vertices.
+Undirected connected graph
+What graph is called simple?
+
+164.
+•
+•
+•
+√
+
+With a closed simple chain.
+Consisting of a single loop.
+Consisting of a single isolated point.
+Without loops and parallel edges
+
+•
+
+If all edges are parallel.
+What expression characterizes the efficiency of search in a binary search tree?
+
+165.
+•
+•
+•
+•
+√
+
+O(n*n)
+O(1)
+O(n)
+O(n/2)
+O(log n)
+What data structures does a tree generally belong to?
+
+166.
+•
+•
+•
+•
+√
+
+To static non-linear structures.
+To dynamic linear structures.
+To circular structures.
+To static linear structures.
+To dynamic non-linear structures
+Subtree is...
+
+167.
+•
+•
+•
+√
+
+•
+
+A vertex with no incoming edges.
+There are no correct answers.
+Vertices with one incoming edge and one or more outgoing edges.
+Called a vertex with all descendants
+Vertices with one incoming edge and no outgoing edges.
+Which of the given can be as a pre-order traversal on the BST?
+
+168.
+•
+•
+√
+
+•
+•
+
+KXY+
+KX+Y
++KX
+KX+
+K+X
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 24 will be deleted, which
+number will be written to the node point of that number?
+
+169.
+•
+•
+•
+•
+√
+
+32
+34
+7
+16
+30
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 12 will be deleted, which
+number will be written to the node point of that number?
+
+170.
+•
+•
+•
+√
+
+2
+7
+4
+5
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2,If the 5 will be deleted, which number
+will be written to the node point of that number?
+
+171.
+•
+•
+•
+√
+
+•
+
+2
+24
+12
+7
+4
+
+Consider the following data. The pre order traversal of a binary tree is A, B, E, C, D. The in order traversal of the same binary tree is B,
+E, A, D, C. The level order sequence for the binary tree is _________
+
+172.
+•
+•
+•
+•
+√
+
+To obtain a prefix expression, which of the tree traversals is used?
+
+173.
+•
+•
+√
+
+•
+•
+
+Level-order traversal
+Post-order traversal
+Pre-order traversal
+In-order traversal
+post-order and in-order traversal
+What is the space complexity of the post-order traversal in the recursive fashion? (d is the tree depth and n is the number of nodes)
+
+174.
+•
+•
+√
+
+•
+•
+
+O(1)
+O(nlogd)
+O(d)
+O(n)
+O(logd)
+What is the time complexity of pre-order traversal in the iterative fashion?
+
+175.
+•
+•
+•
+√
+
+•
+
+O(1)
+O(n^2)
+O(nlogn)
+O(n)
+O(logn)
+For the tree below, write the post-order traversal.
+
+176.
+
+•
+•
+•
+•
+√
+
+177.
+
+D, B, E, A, C
+B, E, A, C, D
+A, C, D, B, E
+A, B, C, D, E
+A, B, C, E, D
+
+7, 5, 6, 11, 2, 5, 4, 9, 2
+6, 5, 11, 2, 7, 5, 9, 4, 2
+6, 2, 7, 2, 5, 11, 9, 5, 4
+6, 2, 7, 2, 11, 5, 5, 9, 4
+6, 5, 2, 11, 7, 4, 9, 5, 2
+For the tree below, write the pre-order traversal.
+
+√
+
+•
+•
+•
+•
+
+2, 7, 2, 6, 5, 11, 5, 9, 4
+2, 7, 5, 2, 6, 9, 5, 11, 4
+2, 5, 11, 6, 7, 4, 9, 5, 2
+7, 5, 6, 11, 2, 5, 4, 9, 2
+2, 7, 5, 6, 11, 2, 5, 4, 9
+Find the postorder traversal of the binary tree shown below.
+
+178.
+
+•
+•
+•
+√
+
+•
+
+PQRSTUVWX
+WRSQPVTXU
+STWUXVQRP
+SWTQXUVRP
+WRSQPVTUX
+The maximum number of nodes in a tree for which post-order and pre-order traversals may be equal is ______
+
+179.
+•
+•
+•
+√
+
+•
+
+3
+any number
+4
+1
+2
+Which of the following is a problem that can be solved using the 1-SUM algorithm?
+
+180.
+•
+•
+√
+
+•
+•
+
+Finding the two largest elements in an array
+Sorting an array in desending order
+None of all
+Sorting an array in ascending order
+Finding the median of an array
+
+Which of the following is a common technique used to analyze the time complexity of sorting algorithms?
+
+181.
+•
+•
+•
+•
+√
+
+Dynamic programming
+Enumeration
+None of them
+Randomization
+Worst-case analysis
+Which of the following is a stable sorting algorithm?
+
+182.
+•
+•
+•
+•
+√
+
+Shell sort
+Selection sort
+Quick sort
+Heap sort
+Merge sort
+Which of the following is a disadvantage of merge sort compared to quick sort?
+
+183.
+•
+•
+•
+√
+
+•
+
+None of them
+It is less efficient for small arrays
+It has a higher worst-case time complexity
+It requires more memory
+It is not a stable sort
+Which of the following is a disadvantage of quick sort compared to merge sort?
+
+184.
+•
+•
+•
+√
+
+•
+
+It requires more memory
+None of them
+It is not a stable sort
+Which of the following is a disadvantage of quick sort compared to merge sort?
+It is less efficient for small arrays
+Which of the following is NOT a step in the quick sort algorithm?
+
+185.
+•
+•
+•
+•
+√
+
+Selecting a pivot element
+None of them
+Partitioning the array
+Recursively sorting the sub-arrays
+Merging the sub-arrays
+Which of the following is a divide-and-conquer algorithm that sorts an array in O(n log n) time?
+
+186.
+•
+•
+•
+•
+√
+
+Selection sort
+Insertion sort
+Bubble sort
+Quick sort
+Merge sort
+Which of the following is a comparison-based sorting algorithm with worst-case time complexity of O(n^2)?
+
+187.
+√
+
+•
+•
+•
+•
+
+Quick sort
+Insertion sort
+Bubble sort
+Merge sort
+Tim sort
+Which of the following is an example of an algorithm with exponential time complexity?
+
+188.
+•
+•
+
+Binary search
+Quick sort
+
+•
+√
+
+•
+
+Selection sort
+Brute force algorithm
+Bubble sort
+Which of the following is a common way to express algorithm complexity?
+
+189.
+•
+•
+•
+•
+√
+
+Number of operations
+None of the above
+Memory usage
+Running time
+All of the them
+Which of the following is a common technique used to analyze algorithm complexity?
+
+190.
+•
+•
+•
+√
+
+•
+
+Backtracking
+Randomization
+Enumeration
+Worst-case
+Heuristics
+Which of the following is an example of an algorithm with constant time complexity?
+
+191.
+•
+•
+•
+•
+√
+
+Insertion sort
+Selection sort
+Merge sort
+Bubble sort
+Binary search
+What is the worst-case time complexity of Selection Sort?
+
+192.
+•
+•
+•
+√
+
+•
+
+O(n log n)
+O(n^3)
+O(n)
+O(n^2)
+O(2^n)
+What is the worst-case time complexity of Bubble Sort?
+
+193.
+•
+•
+•
+•
+√
+
+O(n log n)
+O(n)
+O(2^n)
+O(n^3)
+O(n^2)
+What is the best-case time complexity of Bubble Sort?
+
+194.
+•
+√
+
+•
+•
+•
+
+O(n log n)
+O(n^2)
+O(2^n)
+O(n)
+O(n^3)
+Which of the following is a disadvantage of the divide and conquer approach?
+
+195.
+•
+√
+
+•
+•
+•
+
+It is not efficient for large datasets
+It can lead to stack overflow errors
+None of them
+It requires a lot of memory
+It is difficult to implement
+
+Which of the following algorithms utilizes a decrease and conquer approach?
+
+196.
+•
+•
+•
+•
+√
+
+3-SUM problem
+2-SUM problem
+Binary search
+Merge sort
+Quick sort
+In the context of algorithms , which problem-solving technique involves breaking a problem into smaller subproblems and solving them
+independently?
+
+197.
+•
+•
+•
+√
+
+•
+
+Backtracking
+Dynamic programming
+Greedy algorithms
+Divide and conquer approach
+Branch and bound
+Which of the following is NOT a step in the divide and conquer approach?
+
+198.
+•
+•
+•
+√
+
+•
+
+Repeat the process until the problem is solved
+Combine the solutions to the subproblems
+Divide the problem into subproblems
+Solve the problem with the decreasing datas
+Solve the subproblems recursively
+Which of the following is a common example of an algorithm that uses the divide and conquer approach?
+
+199.
+•
+√
+
+•
+•
+•
+
+Insertion sort
+Binary search
+Bubble sort
+Linear search
+Selection sort
+Which of the following is a disadvantage of using iteration in binary search?
+
+200.
+•
+•
+√
+
+•
+•
+
+It is less efficient than using recursion
+It is not compatible with all programming languages
+It makes the code harder to read and understand
+It is not compatible with all programming languages
+It increases the worst-case time complexity of the algorithm
+Which of the following is an example of a problem that can be solved using binary search?
+
+201.
+√
+
+•
+•
+•
+•
+
+Finding a specific element in a sorted array
+Finding the maximum flow in a flow network
+Sorting an array in ascending order
+Finding the shortest path between two nodes in a graph
+Sorting an array in desending order
+Which of the following is a disadvantage of binary search compared to linear search?
+
+202.
+•
+•
+•
+√
+
+•
+
+It is more difficult to implement
+It has a higher worst-case time complexity
+It requires more memory
+It requires a sorted array
+None of them
+What is a prerequisite for using binary search on an array?
+
+203.
+•
+
+The array must be sorted in ascending order
+
+√
+
+•
+•
+•
+
+The array must already be sorted
+The array must be sorted in descending order
+The array must contain integers only
+The array must be of even length
+Which of the following is a disadvantage of using the linear search algorithm?
+
+204.
+•
+•
+•
+•
+√
+
+It has a higher worst-case time complexity than other search algorithms
+It can only be used with sorted lists
+None of them
+It requires more memory than other search algorithms
+It is less efficient than other search algorithms
+Which of the following is a search algorithm that sequentially checks each element of the list until a match is found or the end of the list
+is reached?
+
+205.
+•
+√
+
+•
+•
+•
+
+None of them
+Linear search
+Depth-first search
+Binary search
+Breadth-first search
+Which of the following is a sorting algorithm that works by repeatedly finding the minimum element from the unsorted part of the array
+and putting it at the beginning?
+
+206.
+•
+√
+
+•
+•
+•
+
+Bubble sort
+Selection sort
+Insertion sort
+Linear sort
+Quick sort
+Which of the following is a sorting algorithm that has a worst-case time complexity of O(n^2)?
+
+207.
+√
+
+•
+•
+•
+•
+
+All of them
+Bubble sort
+Insertion sort
+Selection sort
+None of the above
+Which of the following is a disadvantage of using the insertion sort algorithm?
+
+208.
+√
+
+•
+•
+•
+•
+
+It is less efficient than other sorting algorithms
+None of them
+It is not compatible with all programming languages
+It has a higher worst-case time complexity
+It requires more memory
+Which of the following is a disadvantage of using the selection sort algorithm?
+
+209.
+•
+√
+
+•
+•
+•
+
+It has a higher worst-case time complexity
+It is less efficient than other sorting algorithms
+It requires more memory
+None of them
+It is not compatible with all programming languages
+Which of the following is a disadvantage of using the bubble sort algorithm?
+
+210.
+•
+•
+•
+
+It is not compatible with all programming languages
+It has a higher worst-case time complexity
+It requires more memory
+
+√
+
+•
+
+It is less efficient than other sorting algorithms
+None of them
+Which of the following is a sorting algorithm that builds the final sorted array one item at a time by repeatedly inserting a new element
+into the sorted portion of the array in the correct position?
+
+211.
+√
+
+•
+•
+•
+•
+
+Insertion sort
+Bubble sort
+Quick sort
+Linear sort
+Selection sort
+Which of the following is a sorting algorithm that repeatedly selects the smallest element from the unsorted portion of the list and moves
+it to the beginning of the sorted portion of the list?
+
+212.
+•
+√
+
+•
+•
+•
+
+Bubble sort
+Selection sort
+Quick sort
+Linear sort
+Insertion sort
+Which of the following is a sorting algorithm that repeatedly steps through the list to be sorted, compares each pair of adjacent items
+and swaps them if they are in the wrong order?
+
+213.
+•
+√
+
+•
+•
+•
+
+Insertion sort
+Bubble sort
+Selection sort
+Merge sort
+Quick sort
+Which of the following is a technique used to reduce the time complexity of the maximum subarray problem using the divide and
+conquer approach?
+
+214.
+√
+
+•
+•
+•
+•
+
+None of the them
+Hashing
+Memoization
+Randomization
+Dynamic programming
+Which of the following is a disadvantage of using the decrease and conquer approach to solve the maximum subarray problem?
+
+215.
+•
+•
+•
+√
+
+•
+
+None of them
+It is less efficient than other problem-solving strategies
+It requires a lot of memory
+It has a higher worst-case time complexity
+It is more difficult to implement
+What is the memory size of with n character elements array?
+
+216.
+•
+•
+•
+√
+
+•
+
+8
+4N+24
+8N+24
+2N+24
+4
+How many bytes of memory use one double type variable?
+
+217.
+√
+
+•
+•
+•
+
+8
+24
+4
+2
+
+•
+
+How many bytes of memory use one long type variable?
+
+218.
+√
+
+•
+•
+•
+•
+
+8
+24
+2
+4
+1
+How many bytes of memory use one float type variable?
+
+219.
+•
+•
+•
+•
+√
+
+24
+2
+1
+8
+4
+How many bytes of memory use one integer type variable?
+
+220.
+•
+•
+•
+√
+
+•
+
+24
+1
+8
+4
+2
+How many bytes of memory use one boolean type variable?
+
+221.
+√
+
+•
+•
+•
+•
+
+1
+4
+8
+24
+2
+How many bytes of memory use one character type variable?
+
+222.
+√
+
+•
+•
+•
+•
+
+2
+8
+4
+1
+24
+What is the complexity of an algorithm with N(N-7) confusion according to Tilde's theorem?
+
+223.
+•
+•
+√
+
+•
+•
+
+O(n)
+O(logn)
+O(n^2)
+O(nlogn)
+O(n^3)
+What is the complexity of an algorithm with 5N-2 confusion according to Tilde's theorem?
+
+224.
+•
+√
+
+•
+•
+•
+225.
+
+1
+
+O(logn)
+O(n)
+O(nlogn)
+O(n^3)
+O(n^2)
+What is the complexity of an algorithm with 2N-5 confusion according to Tilde's theorem?
+
+•
+•
+•
+√
+
+•
+
+O(n^3)
+O(logn)
+O(n^2)
+O(n)
+O(nlogn)
+What is the complexity of an algorithm with N(N-1) confusion according to Tilde's theorem?
+
+226.
+•
+•
+•
+•
+√
+
+O(n)
+O(logn)
+O(n^3)
+O(nlogn)
+O(n^2)
+If there is one for loop in the algorithm, what will be of complexity when solving by the brute force approach?
+
+227.
+•
+•
+•
+•
+√
+
+O(n^2)
+O(logn)
+O(n^3)
+O(nlogn)
+O(n)
+What is another sorting algorithm that takes its main idea from the Insertion sort ?
+
+228.
+•
+•
+√
+
+•
+•
+
+Selection sor
+Merge sort
+Shell sort
+Quick sort
+Buble sort
+What condition must be met for the minimum number of loops in binary search algorithm?
+
+229.
+•
+•
+•
+√
+
+•
+
+The searched element must not exist in the array
+Heç biri
+The searched element must be located at the last index of the array
+The searched element must be located at the middle index of the array
+The searched element must be located at the first index of the array
+What condition must be met for the maximum number of loops in binary search algorithm?
+
+230.
+•
+•
+•
+√
+
+•
+
+None of them
+The searched element must be located at the middle index of the array
+The searched element must be located at the first index of the array
+The searched element must not exist in the array
+None of them
+[3,7,9,12,16,33,42,46,50] if searched for 46 in the given array by Binary search wich index will be low value in the 2nd period?
+
+231.
+√
+
+•
+•
+•
+•
+
+5th index
+8th index
+4th index
+3th index
+7th index
+[3,7,9,12,16,33,42,46,50] if searched for 46 in the given array by Binary search wich index will be high value in the 2nd period?
+
+232.
+•
+•
+•
+√
+
+7th index
+5th index
+4th index
+8th index
+
+•
+
+[3,5,7,12,18,23,56,58] if searched for 56 in the given array by Binary search wich index will be low value in the 2nd period?
+
+233.
+•
+•
+•
+√
+
+•
+
+3th index
+4th index
+7th index
+5th index
+8th index
+[3,5,7,12,18,23,56,58] if searched for 56 in the given array by Binary search wich index will be high value in the 2nd period?
+
+234.
+•
+•
+√
+
+•
+•
+
+7th index
+5th index
+8th index
+3th index
+4th index
+[3,5,7,12,18,23,56,58] if searched for 5 in the given array by Binary search wich index will be high value in the 2nd period?
+
+235.
+•
+•
+√
+
+•
+•
+
+4th index
+8th index
+3th index
+0-th index
+7th index
+What is the time complexity of binary search with iteration?
+
+236.
+•
+•
+√
+
+•
+•
+
+O(nlogn)
+O(n^2)
+O(logn)
+O(n^2logn)
+O(n)
+Given an array arr = {45,77,89,90,94,99,100} and key = 100; What are the mid values(corresponding array elements) generated in the
+first and second iterations if use Binary search?
+
+237.
+•
+•
+•
+√
+
+•
+
+45 and 100
+90 and 100
+94 and 99
+90 and 99
+89 and 94
+Given an array arr = {5,6,77,88,99} and key = 88; How many iterations are done until the element is found if use Binary search?
+
+238.
+•
+•
+•
+•
+√
+
+5
+1
+4
+3
+2
+Binary Search can be categorized into which of the following?
+
+239.
+•
+•
+•
+√
+
+240.
+
+3th index
+
+Dynamic programming
+Brute Force technique
+Greedy algorithm
+Divide and conquer
+If the[15,12,20,3,5,18,9] array is sorted by the insertion sort, mark the already sorted part of array after 3rd loop.
+
+•
+√
+
+•
+•
+•
+
+[5,12,15]
+[3,12,15,20]
+[15,12,5]
+[3,5,12,15,20]
+[3,5,12,15]
+What is an in-place sorting algorithm?
+
+241.
+•
+•
+•
+√
+
+It requires additional storage
+The input is already sorted and in-place
+It requires additional space
+It needs O(1) or O(logn) memory to create auxiliary locations
+Which of the following is good for sorting arrays having less than 100 elements?
+
+242.
+√
+
+•
+•
+•
+•
+
+Insertion Sort
+Selection Sort
+Merge Sort
+Timsort
+Quick Sort
+Which of the following is correct with regard to insertion sort?
+
+243.
+√
+
+•
+•
+•
+
+insertion sort is stable and it sorts In-place
+insertion sort is unstable and it does not sort In-place
+insertion sort is unstable and it sorts In-place
+insertion sort is stable and it does not sort In-place
+Which of the following sorting algorithm is best suited if the elements are already sorted?
+
+244.
+•
+•
+•
+•
+√
+
+Quick Sort
+Merge Sort
+Timsort
+Heap Sort
+Insertion Sort
+Which of the following examples represent the worst case input for an insertion sort?
+
+245.
+•
+•
+•
+√
+
+•
+
+small array
+array in sorted order
+large array
+array sorted in reverse order
+normal unsorted array
+For the best case input, the running time of an insertion sort algorithm is?
+
+246.
+•
+•
+•
+√
+
+•
+
+Binary
+Doesn't depend on the input
+Quadratic
+Linear
+Depends on the input
+Which of the following sorting algorithms is the fastest for sorting small arrays?
+
+247.
+•
+•
+•
+√
+
+•
+
+Quick sort
+Merge sort
+Shell sort
+Insertion sort
+Heap sort
+
+What are the basic loops required to perform an insertion sort?
+
+248.
+•
+√
+
+•
+•
+•
+
+if and while
+for and while
+if and else
+do and while
+for and if
+For the following question, how will the array elements look like after second pass if use insertion sort? 34, 8, 64, 51, 32, 21
+
+249.
+•
+•
+√
+
+•
+•
+
+8, 21, 32, 34, 64, 51
+8, 34, 51, 64, 32, 21
+8, 34, 64, 51, 32, 21
+8, 32, 34, 51, 64, 21
+8, 21, 32, 34, 51, 64
+What will be the number of passes to sort the elements using insertion sort?
+
+250.
+•
+•
+•
+•
+√
+
+1
+4
+7
+6
+5
+What is the running time of an insertion sort algorithm if the input is pre-sorted?
+
+251.
+•
+•
+•
+√
+
+•
+
+O(N^2)
+O(M log N)
+O(N^3)
+O(N)
+O(N log N)
+Which of the following is true?
+
+252.
+√
+
+•
+•
+•
+
+Kruskal’s algorithm can also run on the disconnected graphs
+In Kruskal’s sort edges are added to MST in decreasing order of their weights
+Prim’s algorithm can also be used for disconnected graphs
+Prim’s algorithm is simpler than Kruskal’s algorithm
+Kruskal’s algorithm is a ______
+
+253.
+√
+
+•
+•
+•
+
+greedy algorithm
+approximation algorithm
+dynamic programming algorithm
+divide and conquer algorithm
+Prim’s algorithm is also known as __________
+
+254.
+•
+•
+√
+
+•
+•
+
+Floyd–Warshall algorithm
+Bellman-Ford algorithm
+DJP Algorithm
+Dijkstra–Scholten algorithm
+Boruvka’s algorithm
+Prim’s algorithm is a ______
+
+255.
+√
+
+•
+•
+•
+
+Greedy algorithm
+Divide and conquer algorithm
+Dynamic Programming
+Approximation algorithm
+
+Worst case is the worst case time complexity of Prim’s algorithm if adjacency matrix is used?
+
+256.
+•
+•
+•
+•
+√
+
+O(V log E)
+O(log V)
+O(V^3)
+O(E^2)
+O(V^2)
+Kruskal’s algorithm is used to ______
+
+257.
+√
+
+•
+•
+•
+
+find minimum spanning tree
+traverse the graph
+find single source shortest path
+find all pair shortest path algorithm
+Dijkstra’s Algorithm is the prime example for ___________
+
+258.
+√
+
+•
+•
+•
+
+Greedy algorithm
+Branch and bound
+Back tracking
+Dynamic programming
+Dijkstra’s Algorithm cannot be applied on ______________
+
+259.
+•
+•
+•
+√
+
+•
+
+Unweighted graphs
+Weighted graphs
+Directed and weighted graphs
+Graphs having negative weight function
+Undirected and unweighted graphs
+What is the time complexity of Dijikstra’s algorithm?
+
+260.
+•
+•
+•
+•
+√
+
+O(n^3)
+O(logn)
+O(N^3/2)
+O(n)
+O(n^2)
+Dijkstra’s Algorithm is used to solve _____________ problems.
+
+261.
+•
+•
+•
+√
+
+•
+
+Network flow
+Searching
+All pair shortest path
+Single source shortest path
+Sorting
+Which of the following is false?
+
+262.
+•
+•
+•
+√
+
+MST have n – 1 edges if the graph has n edges
+Edge e belonging to a cut of the graph if has the weight smaller than any other edge in the same cut, then the edge e is present in all the
+MSTs of the graph
+The spanning trees do not have any cycles
+Removing one edge from the spanning tree will not make the graph disconnected
+A binary tree is balanced if the difference between left and right subtree of every node is not more than ____
+
+263.
+√
+
+•
+•
+
+1
+4
+0
+
+•
+•
+
+2
+3
+The balance factor of a node in a binary tree is defined as _____
+
+264.
+√
+
+•
+•
+•
+•
+
+height of left subtree minus height of right subtree
+height of right subtree minus one
+height of right subtree minus height of left subtree
+All of them
+addition of heights of left and right subtrees
+What will be the height of a balanced full binary tree with 8 leaves?
+
+265.
+√
+
+•
+•
+•
+•
+
+4
+6
+5
+3
+8
+A binary search tree is generated by inserting in order the following integers: 50, 15, 62, 5, 20, 58, 91, 3, 8, 37, 60, 24. The number of
+the node in the left sub-tree and right sub-tree of the root, respectively, is...
+
+266.
+•
+√
+
+•
+•
+•
+
+(4, 7)
+(7, 4)
+(3, 8)
+(3, 7)
+(8, 3)
+A threaded binary tree is a binary tree in which every node that does not have right child has a thread to its
+
+267.
+•
+√
+
+•
+•
+•
+
+Pre-order successor
+In-order successor
+In-order predecessor
+Post-order predecessor
+Post-order successor
+The minimum number of elements in a heap of height h is
+
+268.
+•
+√
+
+•
+•
+•
+
+2h+1
+2h
+2h-1
+h-1
+2h -1
+If n elements are sorted in a balanced binary search tree. What would be the asymptotic complexity to search a key in the tree?
+
+269.
+•
+√
+
+•
+•
+•
+
+O(1)
+O(logn)
+O(n)
+O(n^2lg(n))
+O(nlogn)
+If n elements are sorted in a binary search tree. What would be the asymptotic complexity to search a key in the tree?
+
+270.
+•
+√
+
+•
+•
+•
+
+O(logn)
+O(n)
+O(nlogn)
+O(n^2lg(n))
+O(1)
+
+If n numbers are to be sorted in ascending order in O(nlogn) time, which of the following tree can be used
+
+271.
+•
+•
+•
+√
+
+When a binary tree is converted in to an extended binary tree, all the nodes of a binary tree in the external node becomes
+
+272.
+•
+√
+
+•
+•
+•
+
+Internal nodes
+Internal nodes
+Root nodes
+All
+None
+the run time for traversing all the nodes of a binary search tree with n nodes and printing them in an order is
+
+273.
+•
+•
+•
+•
+√
+
+O(log(n))
+O(nlg(n))
+O(n^2)
+O(n^2lg(n))
+O(n)
+In a full binary tree, every internal node has exactly two children. A full binary tree with 2n+1 nodes contains
+
+274.
+•
+√
+
+•
+•
+•
+
+n leaf node
+n internal nodes
+2n leaf nodes
+n-1 internal nodes
+n-1 leaf nodes
+An immediate application of a Depth First Search traversal is __________
+
+275.
+•
+•
+•
+√
+
+•
+
+perform Inorder traversal in easy way
+implement postorder traversal
+implement preorder traversal
+count the number of leaf nodes
+count number of nodes
+The time complexity of calculating the sum of all leaf nodes in an n-order binary tree is __________
+
+276.
+•
+•
+•
+√
+
+•
+
+O(n^2)
+O(1)
+O(n+1)
+O(n)
+O(n+2)
+For the expression (7-(4*5))+(9/3) which of the following is the post order tree traversal?
+
+277.
+•
+•
+•
+√
+
+•
+
+278.
+
+Binary tree
+Binary search tree
+Max-heap
+Min-heap
+
+74*-593/+
+*745-93/+
+93/+745*745*-93/+
+74*+593/From the following code identify the which traversal of a binary tree is this __________ //if node has left child
+order(node.left)
+//if node has right child
+order(node.right)
+//visit(node)
+
+•
+•
+√
+
+•
+
+In preorder traversal of a binary tree the second step is ____________
+
+279.
+•
+•
+√
+
+•
+
+traverse the right subtree
+visit the root
+traverse the left subtree
+traverse right subtree and visit the root
+What are the disadvantages of normal binary tree traversals?
+
+280.
+•
+•
+•
+√
+
+improper traversals
+complexity in implementing
+there is no traversal which is efficient
+there are many pointers which are null and thus useless
+What is a threaded binary tree traversal?
+
+281.
+•
+√
+
+•
+•
+
+a binary tree traversal using stacks
+a binary tree traversal without using stacks and queues
+a binary tree traversal using queues
+a binary tree traversal using stacks and queues
+In a full binary tree if there are L leaves, then total number of nodes N are?
+
+282.
+•
+•
+•
+•
+√
+
+N=L+1
+N = 2*L - 2
+N = 2*L
+N=L–1
+N = 2*L – 1
+In a full binary tree if number of internal nodes is I, then number of nodes N are?
+
+283.
+•
+•
+•
+√
+
+•
+
+L = 2*I – 1
+L=I+1
+L = 2*I
+2*I + 1
+L=I–1
+In a full binary tree if number of internal nodes is I, then number of leaves L are?
+
+284.
+•
+•
+•
+√
+
+•
+
+L = 2*I
+L = 2*I + 1
+L = 2*I – 1
+L=I+1
+L=I–1
+What is the average case time complexity for finding the height of the binary tree?
+
+285.
+•
+√
+
+•
+•
+•
+286.
+
+preorder traversal
+Euler tour traversal
+postorder traversal
+Inorder traversal
+
+O(n)
+O(log N)
+O(n^2)
+O(n^2lg(n))
+O(nlg(n))
+What is a complete binary tree?
+
+√
+
+•
+•
+•
+
+A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from left to right
+A tree In which all nodes have degree 2
+A binary tree, which is completely filled, with the possible exception of the bottom level, which is filled from right to left
+Each node has exactly zero or two children
+The massivity of an algorithm means that...
+
+287.
+•
+√
+
+•
+•
+•
+
+With the given initial data, the result of the process is unambiguous.
+An algorithm can be used to solve a whole class of similar tasks.
+The algorithm is understandable to a specific executor.
+The execution of the algorithm should end with a result.
+The algorithm can be divided into a finite number of steps.
+An algorithm written in an understandable computer programming language is called...
+
+288.
+•
+•
+•
+•
+√
+
+algorithm listing
+as an algorithm executor;
+textual algorithm protocol
+algorithm protocol
+program
+
+The algorithm is given in verbal form:
+1) n=0
+2) P=1
+3) n=n+1
+4) P=2*P
+5) If P>10 then go to step 7;
+6) Go to step 3
+7) Print P;
+8) End.
+After the execution of the algorithm, the variable P will take the value…
+
+289.
+
+•
+•
+•
+√
+
+•
+
+24
+8
+36
+16
+12
+The algorithm is given in verbal form:
+1) n=0
+2) P=1
+3) n=n+1
+4) P=2*P
+5) If P>7 then go to step 7;
+6) Go to step 3
+7) Print P;
+8) End.
+After the execution of the algorithm, the variable P will take the value…
+
+290.
+
+√
+
+•
+•
+•
+•
+
+8
+12
+10
+14
+18
+The algorithm is given in verbal form:
+1) a=3, b=5
+2) n=5, i=1
+3) c=a+b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+291.
+
+•
+
+114
+
+•
+•
+•
+√
+
+55
+21
+34
+89
+The algorithm is given in word form:
+1) a=3, b=5
+2) n=5, i=1
+3) c=a+b
+4) If i >= n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+292.
+
+•
+•
+√
+
+•
+•
+
+89
+114
+55
+21
+34
+The algorithm is given in verbal form:
+1) a=5, b=6
+2) n=5, i=1
+3) c=a+b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+293.
+
+•
+•
+√
+
+•
+
+17
+89
+118
+68
+The algorithm is given in verbal form:
+1) a=2, b=4
+2) n=5, i=1
+3) c=a+b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+294.
+
+•
+•
+•
+•
+√
+
+13
+17
+21
+89
+68
+The algorithm is given in verbal form:
+1) a=0, b=1
+2) n=5, i=1
+3) c=a+b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+295.
+
+√
+
+•
+•
+•
+•
+
+13
+12
+8
+89
+68
+
+The algorithm is given in verbal form:
+1) a=1, b=1
+2) n=3, i=1
+3) c=a+b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value…
+
+296.
+
+•
+•
+•
+√
+
+•
+
+5
+21
+13
+8
+34
+The algorithm is given in verbal form:
+1) a=5, b=10
+2) n=5, i=1
+3) c=a-b
+4) If i > n then go to step 6;
+5) a=b, b=c, i=i+1 and go to step 3
+6) Print c;
+7) End.
+After the execution of the algorithm, the variable c will take the value...
+
+297.
+
+•
+√
+
+•
+•
+•
+
+55
+-55
+21
+34
+-21
+The algorithm is given in word form:
+1) S=0;
+2) C=1;
+3) If S>10 then go to step 5;
+4) S=S+C, C=C+1 and go to step 3;
+5) Print S;
+6) End.
+After the execution of the algorithm, the variable S will take the value…
+
+298.
+
+•
+•
+•
+√
+
+•
+
+5
+16
+24
+6
+10
+After executing the linear algorithm x=10, y=5, z=x+y, x=x+y, z=x+z the value of z equals...
+
+299.
+√
+
+•
+•
+•
+•
+
+30
+15
+31
+32
+14
+After executing the linear algorithm x=17, y=5, z=x+y, x=x+y, z=x+z the value of z equals...
+
+300.
+√
+
+•
+•
+•
+•
+
+44
+42
+40
+41
+43
+After executing the linear algorithm a=5, b=7, c=a+b, b=c+a, a=b+c, c=a+b the value of c equals...
+
+301.
+•
+
+42
+
+•
+√
+
+•
+•
+
+45
+46
+40
+41
+The initial values of variables A,B,C,D are set: A=0,B=5, C=0,D=10. What will the new values of variables A,B,C,D be after executing
+the operations D=C,C=B,B=A?
+
+302.
+•
+√
+
+•
+•
+•
+
+A=0,B=0,C=0,D=5
+A=0,B=0,C=5,D=0
+A=5,B=0,C=0,D=0
+A=0,B=5,C=0,D=5
+A=0,B=5,C=0 ,D=0
+The initial values of variables A,B,C,D are set: A=10,B=0, C=5,D=10. What will the new values of variables A,B,C,D be after
+executing the operations D=C,C=B,B=A?
+
+303.
+•
+√
+
+•
+•
+•
+
+A=5,B=10,C=5,D=10
+A=10,B=10,C=0,D=5
+A=5,B=10,C=0,D=10
+A=10,B=5,C=5 ,D=10
+A=10,B=0,C=0,D=10
+The initial values of variables A,B,C,D are set: A=11,B=12, C=13,D=14. What will the new values of variables A,B,C,D be after
+executing the operations D=C,C=B,B=A?
+
+304.
+•
+√
+
+•
+•
+•
+
+A=13,B=10,C=12,D=11
+A=11,B=11,C=12,D=13
+A=12,B=12,C=13,D=13
+A=13,B=12,C=11 ,D=10
+A=13,B=11,C=10,D=11
+As a result of executing the algorithm a=5, b=2*a, c=2*b, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of ab+cd?
+
+305.
+•
+•
+•
+√
+
+•
+
+55
+70
+650
+1050
+94
+As a result of executing the algorithm a=5, b=2*a, c=3, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of 2bc-11d?
+
+306.
+•
+•
+•
+√
+
+•
+
+55
+70
+1050
+94
+650
+As a result of executing the algorithm a=10, b=2*a, c=5, d=2*c; if a+c<b+d then c=a+c else d=b+d. What is the sum of 2bc+5d?
+
+307.
+√
+
+•
+•
+•
+•
+
+650
+1050
+70
+94
+55
+As a result of executing the algorithm a=10, b=4, c=5, d=6; if a+c<b+d then c=a+c else d=b+d. What is the sum of a+2bc+2d?
+
+308.
+•
+√
+
+94
+70
+
+•
+•
+•
+
+1050
+55
+650
+As a result of executing the algorithm a=1, b=4, c=5, d=6; if a+c<b+d then c=a+c else d=b+d. What is the sum of a+2bc+d?
+
+309.
+√
+
+•
+•
+•
+•
+
+55
+70
+94
+650
+1050
+As a result of executing the assignment operators c:=20; d:=4; f:=c*d; f:=f/d; d:=c-d; c:=f-d; the variables c, d, f will take the following
+values respectively:
+
+310.
+•
+•
+•
+√
+
+•
+
+4,20,16
+16,20,4
+20,4,16
+4,16,20
+16,4,20
+Which expression best describes the time complexity of the Insertion Sort algorithm?
+
+311.
+•
+•
+•
+√
+
+•
+
+O(n!)
+O(n*ln n)
+O(ln n)
+O(n)
+O(n*n)
+Which expression defines the complexity of the Quick Sort algorithm in the best and average cases?
+
+312.
+•
+•
+√
+
+•
+•
+
+O(n)
+O(n!)
+O(n*ln n)
+O(n*n)
+O(ln n)
+Which of the following statements best characterizes Bubble Sort?
+
+313.
+•
+•
+•
+√
+
+•
+
+It searches for the smallest or largest element.
+Performs the minimum number of operations.
+Not suitable for 1-dimensional arrays.
+Adjacent elements are compared.
+It is considered the fastest.
+The main requirement for performing binary search in an array:
+
+314.
+•
+•
+•
+√
+
+•
+
+Small size
+Large size
+Disorderliness
+Orderliness
+No special requirements
+There is an ordered array of 16 integers. How many comparison operations are required during binary search to establish the fact of the
+absence of desired data in this array?
+
+315.
+•
+•
+√
+
+•
+
+10
+15
+4
+5
+
+•
+
+1
+There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is at the beginning
+of the array?
+
+316.
+•
+√
+
+•
+•
+•
+
+4
+1
+8
+7
+0
+There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is in the middle of
+the array?
+
+317.
+•
+•
+•
+√
+
+•
+
+1
+8
+7
+4
+0
+There is an unordered array of 8 integers. How many comparison operations are required to find the desired key if it is at the end of the
+array?
+
+318.
+√
+
+•
+•
+•
+•
+
+8
+4
+1
+0
+7
+During the sorting process, it is possible to move a large number of elements through the array. Which algorithm is this sorting done by?
+
+319.
+•
+•
+•
+√
+
+•
+
+Quisk Sort
+Şella
+BubbleSort
+Insertion Sort
+SelectionSort
+Which of these types of sorting is less efficient?
+
+320.
+√
+
+•
+•
+•
+•
+
+BubbleSort
+InsertionSort
+Şella
+SelectionSort
+Xoar
+Which one is an external sorting algorithm?
+
+321.
+•
+•
+•
+√
+
+•
+
+İnsertion Sort
+Selection Sort
+Radix Sort
+Quisk sort
+Bubble Sort
+What is the name of the data sorting in RAM?
+
+322.
+•
+•
+•
+•
+√
+
+insertion sort
+external sorting
+complete sort
+selection sort
+internal sorting
+
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the first pass?
+
+323.
+•
+•
+•
+√
+
+•
+
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the third pass?
+
+324.
+•
+•
+•
+√
+
+•
+
+8
+6
+10
+2
+3
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the second pass?
+
+325.
+•
+•
+•
+•
+√
+
+10
+6
+4
+7
+5
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many movements are made during the first pass?
+
+326.
+•
+•
+•
+•
+√
+
+10
+5
+4
+2
+3
+An array with n elements is sorted in time proportional to n*n. Which sorting algorithm was used?
+
+327.
+•
+•
+•
+√
+
+•
+
+Heapsort
+Quisk Sort
+Merge Sort
+Bubble Sort
+Shell
+Which of the following sorting algorithms are based on the "divide and conquer" principle? 1) Quick Sort, 2) Merge Sort, 3) Heap Sort,
+4) Bubble Sort, 5) Radix Sort
+
+328.
+•
+•
+•
+•
+√
+
+1),5)
+3),4)
+1),3)
+2),5)
+1),2)
+There are arrays of numbers 6,2,4,7,1,3,8,5. What will the array look like after the second pass of the Shell Sort algorithm?
+
+329.
+•
+•
+•
+•
+√
+
+330.
+
+10
+22
+45
+5
+20
+
+1,2,5,4,6,3,8,7
+1,2,4,5,6,3,8,7
+1,2,4,6,5,8,3,7
+1,4,2,5,6,3,7,8
+1,2,4,3,6,5,8,7
+There are arrays of numbers 6,2,4,7,1,3,8,5. How many passes are needed to sort the array using the Insertion Sort algorithm?
+
+•
+√
+
+•
+•
+•
+
+3
+7
+8
+5
+4
+The array of numbers 3, 7, 8, 5, 2, 1, 9, 5 is sorted by the Shell algorithm with the initial step d=4. How many iterations are required to
+sort this array?
+
+331.
+•
+•
+•
+√
+
+•
+
+2
+6
+5
+3
+4
+The array of numbers 3, 7, 8, 5, 2, 1, 9, 5 is sorted by the Shell algorithm with the initial step d=4. How many groups are obtained after
+the first iteration?
+
+332.
+•
+•
+•
+√
+
+•
+
+3
+2
+5
+4
+6
+Which expression defines the number of permutations for Bubble Sort in the best case?
+
+333.
+•
+•
+•
+√
+
+•
+
+n(n-1)/4
+n*n
+n-1
+0
+n(n-1)/2
+There is a 9-element sorted array of integers. If the desired key element is exactly in the middle of the second half of the array, how
+many comparisons are needed to find it?
+
+334.
+•
+•
+√
+
+•
+•
+
+9
+1
+2
+0
+5
+Edges of a graph can be associated with:
+
+335.
+•
+•
+•
+•
+√
+
+Connections.
+Types of relationships.
+Objects.
+Sets.
+Relationships between objects
+A graph for which there is a path between each pair of vertices is called...
+
+336.
+•
+•
+√
+
+•
+•
+
+Regular.
+Simple graph.
+Connected
+Null graph.
+Trivial graph.
+A graph without loops and parallel edges is called...
+
+337.
+•
+
+Connected.
+
+•
+√
+
+•
+•
+
+Regular.
+Simple graph
+Trivial graph.
+Null graph.
+A graph containing only arcs is called...
+
+338.
+•
+√
+
+•
+•
+•
+
+Connected.
+Directed
+Complex.
+Simple.
+Undirected.
+A graph containing only edges is called...
+
+339.
+√
+
+•
+•
+•
+•
+
+Undirected
+Complex.
+Simple.
+Connected.
+Directed.
+The number of edges in a full binary tree with n vertices equals...
+
+340.
+√
+
+•
+•
+•
+•
+
+n-1
+2n
+n
+2n-1
+n+1
+How is the length of a tree path defined?
+
+341.
+•
+•
+√
+
+•
+•
+
+The number of edges from a node to a vertex.
+The maximum number of leaves.
+The sum of the lengths of all paths in the graph
+The maximum number of edges.
+The number of edges from a leaf to a vertex.
+The degree of a tree is called...
+
+342.
+•
+•
+•
+√
+
+•
+
+Maximum number of connections.
+The maximum number of levels of its nodes.
+Maximum number of nodes.
+Maximum degree of all nodes
+Maximum number of leaves.
+A tree is:
+
+343.
+•
+•
+•
+√
+
+•
+
+Directed disconnected graph.
+Undirected disconnected graph.
+Directed connected graph.
+Undirected connected graph
+Graph with adjacent vertices.
+A graph is called complete...
+
+344.
+•
+√
+
+•
+•
+•
+
+If the graph contains loops or multiple edges.
+If any two vertices are connected by an edge
+If there exists at least one path between any pair of vertices in the graph.
+If each edge of the graph is associated with a number called the edge weight.
+If some edges of the graph are directed while others are undirected.
+
+Which of the following algorithms is an algorithm for finding the shortest distance between vertices in a weighted connected oriented
+and non-oriented graph:
+1. Dijkstra's algorithm
+2. Floyd's algorithm
+3. Kruskal's algorithm
+4. Prim's algorithm
+
+345.
+
+•
+•
+•
+•
+√
+
+2,4
+1,4
+3,4
+1,3
+1,2
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 20 will be deleted, which
+number will be written to the node point of that number?
+
+346.
+•
+•
+•
+•
+√
+
+12
+32
+14
+1
+30
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 5 will be deleted, which
+number will be written to the node point of that number?
+
+347.
+•
+•
+•
+•
+√
+
+14
+3
+1
+12
+6
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. If the 3 will be deleted, which
+number will be written to the node point of that number?
+
+348.
+•
+•
+•
+√
+
+•
+
+12
+5
+6
+1
+14
+There is a binary tree (not a search tree) containing arbitrary characters. Pre-order traversal of the tree gives the following result: A, a, +,
+*, 1, $, x. Which node is the root of the tree?
+
+349.
+•
+√
+
+•
+•
+
+x
+A
++
+1
+There is a binary tree (not a search tree) containing arbitrary characters. Post-order traversal of the tree gives the following result: A, a,
++, *, 1, $, x. Which node is the root of the tree?
+
+350.
+•
+•
+•
+•
+√
+
+*
++
+1
+А
+x
+There is a binary tree (not a search tree) containing integers. Pre-order traversal of the tree gives the following result: 2, 4, 6, 8, 10, 12,
+14. Which node is the root of the tree?
+
+351.
+•
+•
+
+6
+14
+
+•
+√
+
+•
+
+10
+2
+8
+There is a binary search tree containing integers from 1 to 7. What will be the result of a in-order traversal?
+
+352.
+√
+
+•
+•
+•
+•
+
+1,2,3,4,5,6,7
+4,2,6,1,3,5,7
+1,3,2,5,7,6,4
+4,2,1,3,6,5,7
+7,6,5,4,3,2,1
+There is a binary search tree containing integers. Post-order traversal of the tree gives the following result: 10, 30, 20, 50, 70, 60, 40.
+Which node is the root of the tree?
+
+353.
+√
+
+•
+•
+•
+•
+
+40
+30
+20
+70
+10
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the in-order traversal of this
+BST.
+
+354.
+•
+•
+•
+•
+√
+
+24,16,12,4,2,5,7,34,30
+2,7,16,12,4,30,32,24,6
+2,7,5,4,12,16,30,34,24
+15,7,2,5,24,4,30,34,16
+2,4,5,7,12,16,24,30,34
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the post-order traversal of this
+BST.
+
+355.
+•
+•
+•
+•
+√
+
+2,7,16,12,4,30,32,24,6
+15,7,2,5,24,4,30,34,16
+24,16,12,4,2,5,7,34,30
+2,5,7,12,16,24,30,32,4
+2,7,5,4,12,16,30,34,24
+A binary search tree is created by inserting in order the following integers: 24,16,12,4,5,7,34,30,2. Find the pre-order traversal of this
+BST.
+
+356.
+•
+•
+•
+√
+
+•
+
+12,16,24,5,7,30,34,2
+15,7,2,5,24,4,30,34,16
+2,5,7,12,16,24,30,32,4
+24,16,12,4,2,5,7,34,30
+2,7,16,12,4,30,32,24,5
+Which of the given can be as a post-order traversal on the BST?
+
+357.
+•
+•
+•
+√
+
+•
+
++KX
++KXY
+KX+Y
+KX+
+K+X
+Which of the following is a common technique used to analyze the time complexity of algorithms?
+
+358.
+•
+•
+•
+
+Dynamic programming
+Heuristics
+Randomization
+
+√
+
+•
+
+Which of the following is a disadvantage of the brute force approach to solving the 3-SUM problem?
+
+359.
+•
+•
+•
+√
+
+•
+
+It is difficult to implement
+It requires a lot of memory
+It is not accurate
+It has a high worst-case time complexity
+None of them
+What is the worst-case time complexity of the 3-SUM algorithm with brute force?
+
+360.
+•
+•
+•
+√
+
+•
+
+O(n)
+O(2^n)
+O(n^2)
+O(n^3)
+O(n log n)
+What is the worst-case time complexity of the 2-SUM algorithm?
+
+361.
+•
+•
+•
+√
+
+•
+
+O(2^n)
+O(n log n)
+O(n^3)
+O(n^2)
+O(1)
+What is the best-case time complexity of the 1-SUM algorithm in the sorted array?
+
+362.
+•
+•
+•
+√
+
+•
+
+O(n)
+O(n log n)
+O(n^3)
+O(1)
+O(n^2)
+What is the best-case time complexity of the 1-SUM algorithm with brute force approach?
+
+363.
+•
+•
+•
+√
+
+•
+
+O(n^2)
+O(2^n)
+O(n^3)
+O(n)
+O(n log n)
+What is the time complexity of a brute-force approach to the 1-SUM problem?
+
+364.
+•
+•
+•
+√
+
+•
+
+O(n log n)
+O(2^n)
+O(n^3)
+O(n)
+O(n^2)
+What is the worst-case time complexity of the 1-SUM algorithm?
+
+365.
+•
+•
+•
+√
+
+•
+366.
+
+Worst-case analysis
+Enumeration
+
+O(n^3)
+O(n log n)
+O(n^2)
+O(n)
+O(2^n)
+. In the 3-SUM problem, you are given an array of integers and a target value. What is the goal?
+
+√
+
+•
+•
+•
+•
+
+To find three integers in the array that sum to the target value
+To find the target value as the product of three integers in the array
+To find the target value as the sum of three integers in the array
+To find the target value as the sum of all integers in the array
+To find three integers in the array that are equal to the target value
+Which of the following is a problem that can be solved using the 3-SUM algorithm with brute force?
+
+367.
+•
+•
+•
+√
+
+•
+
+Finding the median of an array
+Sorting an array in ascending order
+Finding the two largest elements in an array
+Finding a triple of elements in an array that sum up to a given target value
+Sorting an array in desending order
+Which of the following is a problem that can be solved using the 2-SUM algorithm?
+
+368.
+•
+•
+•
+•
+√
+
+Sorting an array in ascending order
+Finding the two largest elements in an array
+Finding the median of an array
+Sorting an array in desending order
+Finding a pair of elements in an array that sum up to a given target value
+Which of the following is a problem that can be solved using the merge sort algorithm?
+
+369.
+•
+•
+√
+
+•
+•
+
+Finding the shortest path between two nodes in a graph
+Finding a specific element in a sorted array
+Sorting an array in desending order
+Finding a specific element in a sorted array
+Finding the maximum flow in a flow network
+Which of the following is a problem that can be solved using the linear search algorithm?
+
+370.
+•
+•
+•
+√
+
+•
+
+Finding the shortest path between two nodes in a graph
+Finding the maximum flow in a flow network
+None of them
+Finding a specific element in a sorted array
+Sorting an array in ascending order
+Which of the following is a problem that can be solved using the merge sort algorithm?
+
+371.
+•
+√
+
+•
+•
+•
+
+Finding a specific element in a sorted array
+Sorting an array in ascending order
+Finding a specific element in a sorted array
+Finding the shortest path between two nodes in a graph
+Finding the maximum flow in a flow network
+Which of the following sorting algorithms uses a divide and conquer approach?
+
+372.
+•
+•
+•
+√
+
+•
+
+Linear Sort
+Insertion Sort
+Bubble Sort
+Merge Sort
+Selection Sort
+Which of the following is an algorithm that can be used to sort an array in O(n log n) time using the divide and conquer approach?
+
+373.
+•
+•
+√
+
+Radix sort
+Selection sort
+Quick sort
+
+•
+•
+
+What is the avarage-case time complexity of Bubble Sort?
+
+374.
+•
+•
+•
+•
+√
+
+O(n log n)
+O(n)
+O(2^n)
+O(n^3)
+O(n^2)
+What is the avarage-case time complexity of Selection Sort?
+
+375.
+•
+•
+•
+•
+√
+
+O(n^3)
+O(n log n)
+O(n)
+O(2^n)
+O(n^2)
+What is the avarage-case time complexity of Insertion Sort?
+
+376.
+•
+•
+•
+•
+√
+
+O(n log n)
+O(n^3)
+O(n)
+O(2^n)
+O(n^2)
+What is the best-case time complexity of Insertion Sort?
+
+377.
+•
+•
+•
+•
+√
+
+O(n log n)
+O(n^2)
+O(2^n)
+O(n^3)
+O(n)
+What is the worst-case time complexity of Insertion Sort?
+
+378.
+•
+•
+•
+•
+√
+
+O(2^n)
+O(n)
+O(n log n)
+O(n^3)
+O(n^2)
+What is the best-case time complexity of Selection Sort?
+
+379.
+•
+•
+•
+•
+√
+
+O(n)
+O(2^n)
+O(n log n)
+O(n^3)
+O(n^2)
+What is the average-case time complexity of Quick Sort?
+
+380.
+•
+√
+
+•
+•
+•
+381.
+
+Insertion sort
+Bubble sort
+
+O(n)
+O(2NLnN)
+O(n^3)
+O(n^2)
+O(logn)
+What is the time complexity of Quick Sort algorithm in the best case?
+
+√
+
+•
+•
+•
+•
+
+O(nlogn)
+O(n)
+O(logn)
+O(n^2)
+O(n^3)
+What is the time complexity of the following code snippet?
+for i in range(n):
+---print (i)
+
+382.
+
+•
+•
+•
+•
+√
+
+O(n^3)
+O(logn)
+O(nlogn)
+O(n^2)
+O(n)
+What is the time complexity of the following code snippet?
+for i in range(n):
+--for j in range (n):
+----for k in range (n):
+------print (i, j)
+
+383.
+
+•
+√
+
+•
+•
+•
+
+O(n)
+O(n^3)
+O(n^2)
+O(nlogn)
+O(logn)
+What is the time complexity of the following code snippet?
+for i in range(n):
+--for j in range (n):
+----print (i, j)
+
+384.
+
+•
+√
+
+•
+•
+•
+
+O(n^3)
+O(n^2)
+O(nlogn)
+O(n)
+O(logn)
+Which of the following is a technique used to reduce the time complexity of the linear search algorithm for large datasets?
+
+385.
+•
+√
+
+•
+•
+•
+
+Randomization
+Binary search
+Dynamic programming
+None of them
+Memoization
+Which of the following is an example of a problem that can be solved using the linear search algorithm?
+
+386.
+•
+•
+•
+√
+
+•
+
+Finding the maximum flow in a flow network
+Finding the shortest path between two nodes in a graph
+Sorting an array in ascending order
+Finding a specific element in a sorted list
+None of them
+Which of the following is a disadvantage of using the binary search algorithm?
+
+387.
+•
+√
+
+•
+•
+
+It has a higher worst-case time complexity than other search algorithms
+It can only be used with sorted lists
+It requires more memory than other search algorithms
+None of them
+
+•
+
+It is less efficient than other search algorithms
+Which of the following is a technique used to reduce the worst-case time complexity of the linear search algorithm?
+
+388.
+•
+√
+
+•
+•
+•
+
+Dynamic programming
+Binary search
+Randomization
+None of them
+Memoization
+Which of the following is a disadvantage of using the linear search algorithm to find an element in a large list?
+
+389.
+•
+√
+
+•
+•
+•
+
+None of them
+It has a higher worst-case time complexity than other search algorithms
+It can only be used with sorted lists
+It requires more memory than other search algorithms
+It is less efficient than other search algorithms
+Which of the following is a technique used to improve the performance of the linear search algorithm?
+
+390.
+•
+•
+•
+√
+
+•
+
+Memoization
+None of them
+Dynamic programming
+Binary search
+Randomization
+Choose the incorrect statement about merge sort from the following?
+
+391.
+•
+•
+•
+√
+
+it is not an in place algorithm
+it is a comparison based sort
+it is stable algorithm
+it is an adaptive algorithm
+Which of the following is not a variant of merge sort?
+
+392.
+•
+•
+•
+√
+
+•
+
+in-place merge sort
+bottom up merge sort
+linear merge sort
+linear merge sort
+top down merge sort
+What will be the best case time complexity of merge sort?
+
+393.
+•
+•
+•
+•
+√
+
+O(n^2)
+O(n^2logn)
+O(n^3)
+O(n log n^2)
+O(n log n)
+Which of the following method is used for sorting in merge sort?
+
+394.
+•
+•
+√
+
+•
+
+partitioning
+selection
+merging
+exchanging
+Merge sort can be implemented using O(1) auxiliary space.
+
+395.
+•
+•
+
+All of them
+false
+
+•
+√
+
+What is the auxiliary space complexity of merge sort?
+
+396.
+•
+•
+√
+
+•
+•
+
+O(log n)
+O(1)
+O(n)
+O(n log n)
+O(n^2logn)
+What is the average case time complexity of merge sort?
+
+397.
+•
+•
+•
+√
+
+•
+
+O(n log n^2)
+O(n^2)
+O(n^2logn)
+O(n log n)
+O(n^3)
+Merge sort uses which of the following technique to implement sorting?
+
+398.
+•
+•
+√
+
+•
+
+dynamic programming
+backtracking
+divide and conquer
+greedy algorithm
+What would the complexlity of Merge sort if it runnig inplace? (not using additional memory)
+
+399.
+•
+•
+√
+
+•
+•
+
+O(nlogn)
+O(logn)
+O(n^2)
+O(n)
+O(n^3/2)
+What is the memory size of with n double elements array?
+
+400.
+•
+•
+•
+•
+√
+
+2N+24
+4N+24
+8
+4
+8N+24
+What is the memory size of with n integer elements array?
+
+401.
+•
+√
+
+•
+•
+•
+
+8
+4N+24
+2N+24
+4
+8N+24
+If the array [7,10,5,3,8,4,2,9,6] is sorted by the selection sorting, at wich index will the number 5 be located after the 3rd loop?
+
+402.
+•
+√
+
+•
+•
+•
+403.
+
+None of them
+true
+
+1st index
+5th index
+2nd index
+3rd index
+8th index
+If the [15,12,20,3,5,18,9] array is sorted by quick soring algorithm, with wich element will swap the pivot when the 1st resurtion ends?
+(If pivot is the first element)
+
+•
+•
+•
+√
+
+•
+
+20
+5
+9
+4
+12
+If the [7,12,8,6,5,22,18] array is sorted by quick soring algorithm, with wich element will swap the pivot when the 1st resurtion ends?
+(If pivot is the first element)
+
+404.
+•
+•
+•
+•
+√
+
+18
+5
+8
+12
+6
+Which among the following is the best cut-off range to perform insertion sort within a quick sort?
+
+405.
+•
+•
+•
+√
+
+•
+
+N>50
+N=0-5
+N>30
+N=5-20
+N=20-30
+Which is the worst method of choosing a pivot element?
+
+406.
+•
+•
+•
+√
+
+median-of-three partitioning
+random element as pivot
+last element as pivot
+first element as pivot
+How many sub arrays does the quick sort algorithm divide the entire array into?
+
+407.
+•
+•
+•
+•
+√
+
+five
+four
+three
+one
+two
+Which of the following sorting algorithms is used along with quick sort to sort the sub arrays?
+
+408.
+√
+
+•
+•
+•
+•
+
+Insertion sort
+Bubble sort
+Shell sort
+Selection sort
+Merge sort
+Which is the safest method to choose a pivot element?
+
+409.
+•
+•
+•
+√
+
+median-of-three partitioning method
+choosing the first element as pivot
+choosing the last element as pivot
+choosing a random element as pivot
+Find the pivot element from the given input using median-of-three partitioning method. 8, 1, 4, 9, 6, 3, 5, 2, 7, 0.
+
+410.
+•
+•
+√
+
+•
+
+9
+7
+6
+0
+
+•
+
+8
+Which of the following methods is the most effective for picking the pivot element?
+
+411.
+√
+
+•
+•
+•
+
+median-of-three partitioning
+random element
+last element
+first element
+Quick sort follows Divide-and-Conquer strategy.
+
+412.
+•
+•
+√
+
+•
+
+False
+None of them
+True
+All of them
+Given an array of the following elements 81,94,11,96,12,35,17,95,28,58,41,75,15. What will be the sorted order after 5-sort if use Shell
+sort?
+
+413.
+•
+√
+
+•
+•
+•
+
+28,12,11,35,41,58,17,94,75,81,96,95,15
+35,17,11,28,12,41,75,15,96,58,81,94,95
+11,12,15,17,28,35,41,58,75,81,94,95,96
+12,11,15,17,81,94,85,96,28,35,41,58,75
+15,12,11,35,41,58,17,94,75,81,96,95,28
+Why is Shell sort called as a generalization of Insertion sort?
+
+414.
+•
+•
+•
+√
+
+Shell sort performs internal sorting
+Improved lower bound analysis
+Insertion is more efficient than any other algorithms
+Shell sort allows an exchange of far items whereas insertion sort moves elements by one position
+Which of the following sorting algorithms is closely related to shell sort?
+
+415.
+•
+•
+√
+
+•
+•
+
+Selection sort
+Bucket sort
+Insertion sort
+Merge sort
+Selection sort
+Shell sort algorithm is the first algorithm to break the quadratic time barrier.
+
+416.
+•
+•
+•
+√
+
+False
+All of them
+None of them
+True
+Who invented the shell sort algorithm?
+
+417.
+√
+
+•
+•
+•
+
+Donald Shell
+John Von Neumann
+Alan Shell
+Tony Hoare
+The worst case running time of shell sort, using Shell’s increments is?
+
+418.
+•
+•
+•
+•
+
+O(n)
+O(logn)
+O(n^3)
+O(nlogn)
+
+√
+
+What is the other name for a shell sort algorithm?
+
+419.
+•
+•
+•
+√
+
+•
+
+Bubble sort
+Diminishing decrement sort
+Selection sort
+Diminishing increment sort
+Insertion sort
+When h=3, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 3th loop?
+
+420.
+•
+•
+•
+√
+
+•
+
+5 th index
+7 th index
+2 st index
+0 th index
+4 rd index
+When h=3, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 4th loop?
+
+421.
+•
+•
+•
+√
+
+•
+
+6 th index
+3 rd index
+5 th index
+0 th index
+1 st index
+When h=4, the [5,12,11,10,6,7,3,15,8] array is sorted by the Shell sorting at which index will the number 3 be located after the 3rd loop?
+
+422.
+•
+•
+•
+√
+
+•
+
+5th index
+1st index
+8th index
+2nd index
+3rd index
+What is the worst case complexity of Shell sort algorithm h=(3x+1) model?
+
+423.
+•
+•
+•
+•
+√
+
+O(n)
+O(logn)
+O(nlogn)
+O(n^2)
+O(n^3/2)
+Consider the following statements. S1. Kruskal’s algorithm might produce a non-minimal spanning tree. S2. Kruskal’s algorithm can
+efficiently implemented using the disjoint-set data structure.
+
+424.
+•
+•
+•
+√
+
+Both S1 and S2 are false
+Both S1 and S2 are true
+S1 is true but S2 is false
+S2 is true but S1 is false
+Which of the following is false about the Kruskal’s algorithm?
+
+425.
+•
+•
+•
+√
+
+426.
+
+O(n^2)
+
+It uses union-find data structure
+It is a greedy algorithm
+It constructs MST by selecting edges in increasing order of their weights
+It can accept cycles in the MST
+Which of the following edges form minimum spanning tree on the graph using kruskals algorithm?
+
+√
+
+•
+•
+•
+
+Consider the following graph. Using Kruskal’s algorithm, which edge will be selected first?
+
+427.
+
+•
+•
+√
+
+•
+•
+
+BG
+DG
+BE
+DE
+GF
+What is the time complexity of Kruskal’s algorithm?
+
+428.
+•
+•
+•
+√
+
+•
+429.
+
+(B-E)(G-E)(E-F)(D-F)
+(B-E)(G-E)(E-F)(D-F)(D-G)
+(B-E)(G-E)(E-F)(B-G)(D-F)
+(B-E)(G-E)(E-F)(D-E)
+
+O(V^3)
+O(E^2)
+O(log V)
+O(E log V)
+O(V log E)
+Consider the given graph. What is the weight of the minimum spanning tree using the Kruskal’s algorithm?
+
+•
+•
+•
+√
+
+•
+
+Which of the following is false about Prim’s algorithm?
+
+430.
+•
+•
+•
+√
+
+It can be implemented using the Fibonacci heap
+It is a greedy algorithm
+It never accepts cycles in the MST
+It constructs MST by selecting edges in increasing order of their weights
+Consider the graph shown below. Which of the following edges form the MST of the given graph using Prim’a algorithm, starting from
+vertex 4.
+
+431.
+
+•
+•
+•
+√
+
+•
+432.
+
+15
+29
+23
+19
+24
+
+(4-3)(5-3)(2-5)(1-2)
+(4-3)(3-5)(5-1)(1-2)
+(4-3)(3-5)(5-2)(1-5)
+(4-3)(3-2)(2-1)(1-5)
+(4-3)(5-3)(2-3)(1-2)
+Consider the given graph. What is the weight of the minimum spanning tree using the Prim’s algorithm,starting from vertex a?
+
+•
+•
+•
+•
+√
+
+Consider the following graph. If b is the source vertex, what is the minimum cost to reach f vertex?
+
+433.
+
+•
+•
+√
+
+•
+•
+
+5
+4
+6
+9
+8
+Using what formula can a parent node be located in an array?
+
+434.
+•
+•
+•
+√
+
+•
+
+2i/5
+(i+1)/2
+i/2
+(i-1)/2
+2i/3
+How many types of insertion are performed in a binary tree?
+
+435.
+•
+√
+
+•
+•
+•
+436.
+
+28
+23
+24
+11
+27
+
+4
+2
+0
+1
+3
+What is the traversal strategy used in the binary tree?
+
+•
+•
+•
+√
+
+random traversal
+depth-first traversal
+Priority traversal
+breadth-first traversal
+How many common operations are performed in a binary tree?
+
+437.
+•
+•
+•
+√
+
+•
+
+4
+2
+1
+3
+6
+Which of the following properties are obeyed by all three tree – traversals?
+
+438.
+•
+•
+√
+
+•
+
+Right subtrees are visited before left subtrees
+Root node is visited before right subtree
+Left subtrees are visited before right subtrees
+Root node is visited before left subtree
+What is the maximum number of children that a binary tree node can have?
+
+439.
+•
+•
+•
+•
+√
+
+0
+3
+1
+4
+2
+The minimum height of self balancing binary search tree with n nodes is _____
+
+440.
+•
+•
+•
+√
+
+•
+
+2n-1
+n
+2n+1
+log2(n)
+n-1
+Which of the following is an advantage of balanced binary search tree, like AVL tree, compared to binary heap?
+
+441.
+•
+•
+•
+√
+
+construction of the tree takes less time than binary heap
+deletion takes less time
+searching takes less time
+insertion takes less time
+Two balanced binary trees are given with m and n elements respectively. They can be merged into a balanced binary search tree in ____
+time.
+
+442.
+•
+•
+•
+√
+
+•
+
+O(m)
+O(nlogm)
+O(mlogn)
+O(m+n)
+O(mn)
+Balanced binary tree with n items allows the lookup of an item in ____ worst-case time.
+
+443.
+•
+•
+•
+√
+
+•
+
+O(nlogn)
+O(n^2lg(n))
+O(1)
+O(log n)
+O(n)
+
+Which of these is not an assignment operator?
+
+444.
+•
+•
+•
+√
+
+•
+
+z=z+1
+a=c+1
+y=x+y
+a:b=sqr(2)
+y=y+1.2
+Which of these operators is not conditional?
+
+445.
+•
+•
+•
+•
+√
+
+if x>=y then x=1
+else y=1+x
+if a<b then a=2*b
+else b=2-b
+if a<>b then z=z+1
+else a=b+1
+if x<y then x=0
+else y=0
+if a<b then 100
+else z=5
+Which of these is an assignment operator?
+
+446.
+•
+•
+•
+√
+
+•
+
+a*b=sqr(2)
+a*x+b=0
+2z=z+12
+a=c+1
+a/b=sqr(2)
+A binary search tree is created by inserting in order the following integers: 55, 25, 65, 15, 35, 60, 75, 10, 20, 30, 40, 45. The number of
+the nodes in the left sub-tree and right sub-tree of the root, respectively, is…
+
+447.
+•
+•
+•
+√
+
+•
+
+(3, 8)
+(7, 4)
+(7, 3)
+(8, 3)
+(3, 7)
+A binary search tree is created by inserting in order the following integers: 40, 20, 45, 15, 25, 42, 50, 10, 18, 22, 35, 38. The number of
+the node in the left sub-tree and right sub-tree of the root, respectively, is…
+
+448.
+•
+•
+•
+√
+
+•
+
+(7, 4)
+(3, 8)
+(3, 7)
+(8, 3)
+(7, 3)
+A binary search tree is created by inserting in order the following integers: 85, 45, 95, 35, 50, 90, 105, 30, 40, 47, 55, 60. The number of
+the node in the left sub-tree and right sub-tree of the root, respectively, is…
+
+449.
+•
+•
+√
+
+•
+•
+
+(3, 7)
+(4, 7)
+(7, 3)
+(7, 4)
+(5, 7)
+A binary search tree is generated by inserting in order the following integers: 70, 25, 80, 15, 35, 75, 90, 10, 20, 30, 40, 45. The number
+of nodes in the left sub-tree and right sub-tree of the root, respectively, is…
+
+450.
+•
+•
+•
+•
+√
+
+(5, 7)
+(4, 7)
+(8, 3)
+(7, 4)
+(3, 8)
+
+A binary search tree is created by inserting in order the following integers: 30, 18, 45, 12, 25, 38, 60, 10, 15, 22, 32, 41. The number of
+the nodes in the left sub-tree and right sub-tree of the root, respectively, is…
+
+451.
+•
+•
+•
+√
+
+•
+
+A binary search tree is created by inserting in order the following integers: 40, 20, 45, 15, 25, 42, 50, 10, 18, 22, 35, 38 The number of
+the nodes in the left sub-tree and right sub-tree of the root, respectively, is…
+
+452.
+•
+•
+•
+√
+
+•
+
+(4, 6)
+(5, 6)
+(5, 5)
+(6, 4)
+(7, 3)
+What is the time complexity for maintaining a dynamic set of weighted trees?
+
+453.
+•
+•
+•
+√
+
+•
+
+O (n!)
+O (n^3)
+O (n)
+O (log n)
+O (n^2)
+How many edges does a leaf cluster contain in Binary search?
+
+454.
+•
+•
+•
+√
+
+•
+
+1
+4
+3
+0
+2
+a=45, b=24. If a>b then a=a+b else a=a-b. What value will the variable a receive as a result of the algorithm's execution?
+
+455.
+•
+•
+•
+•
+√
+
+35
+45
+25
+30
+69
+a=17, b=25. If a<b then a=a+2 otherwise a=a+b. What value will the variable a take as a result of the algorithm's operation?
+
+456.
+√
+
+•
+•
+•
+•
+
+19
+25
+23
+21
+10
+x=5, y=2, t=y, y=x - (int (x/y))*y, x=t, y=y+2*t*t. After the execution of the algorithm, what values will the variables x, y take?
+
+457.
+•
+•
+•
+√
+
+•
+458.
+
+(5, 6)
+(5, 7)
+(7, 4)
+(6, 5)
+(4, 7)
+
+2,11
+2,10
+2,13
+2,9
+2,12
+x=11, y=5, t=y, y=x - (int (x/y))*y, x=t, y=y+2*t*t. What values do the variables x, y have after the execution of the algorithm?
+
+•
+•
+•
+•
+√
+
+11,5
+5,50
+5,55
+11,10
+5,51
+What is the value of variable z when executing the linear algorithm x=10, y=5, z=x+y, x=x+y, z=x+z?
+
+459.
+•
+•
+•
+√
+
+•
+
+14
+15
+31
+30
+32
+If the initial sequence of data consists of numbers x=-4, y=3, then what numbers will be obtained at the output when performing the
+sequence of operators x=x-y, y=x+y, x=x+y?
+
+460.
+•
+•
+•
+√
+
+•
+
+8,6
+10,-5
+3,-4
+-11,-4
+-5,11
+If the initial sequence of data consists of numbers x=2, y=3, then what numbers will be obtained at the output when performing the
+sequence of operators x=x+y, y=x-y, x=x-y?
+
+461.
+•
+•
+•
+√
+
+•
+
+2,6
+3,6
+2,4
+3,2
+3,5
+The finiteness of an algorithm means that...
+
+462.
+•
+√
+
+•
+•
+•
+
+The algorithm can be used to solve a whole class of similar tasks.
+The algorithm can be divided into a finite number of steps.
+The execution of the algorithm should end with a result.
+The algorithm is understandable to a specific executor.
+With the given initial data, the result of the process is unambiguous.
+The effectiveness of an algorithm means that...
+
+463.
+•
+•
+•
+•
+√
+
+The algorithm can be used to solve a whole class of similar tasks.
+The algorithm can be divided into a finite number of steps.
+The algorithm is understandable to a specific executor.
+With the given initial data, the result of the process is unambiguous.
+The execution of the algorithm should end with a result.
+The clarity of an algorithm means that...
+
+464.
+•
+•
+•
+√
+
+•
+
+With the given initial data, the result of the process is unambiguous.
+The execution of the algorithm should end with a result.
+The algorithm can be divided into a finite number of steps.
+The algorithm is understandable to a specific executor.
+The algorithm can be used to solve a whole class of similar tasks.
+The determinism of an algorithm means that...
+
+465.
+•
+•
+
+The algorithm is understandable to a specific executor.
+The algorithm can be divided into a finite number of steps.
+
+√
+
+•
+•
+
+With the given initial data, the result of the process is unambiguous.
+The execution of the algorithm should end with a result.
+The algorithm can be used to solve a whole class of similar tasks.
+What is the complexity function called exponential:
+
+466.
+•
+√
+
+•
+•
+•
+
+O(log(n))
+O(2^n)
+O(1)
+O(n)
+O(n*log(n))
+Constant complexity algorithms are characterized by the following complexity function:
+
+467.
+•
+•
+•
+•
+√
+
+O(n*log(n))
+O(n)
+O(log(n))
+O(n*n)
+O(1)
+The complexity of this algorithm: For i=1 to n do Begin … End;
+
+468.
+•
+•
+•
+•
+√
+
+O(1)
+O(n^2)
+O(n*log(n))
+O(2^n)
+O(n)
+The complexity of this algorithm: For i=1 to n do For j=1 to n do Begin … End;
+
+469.
+•
+•
+•
+√
+
+•
+
+O(2^n)
+O(n*log(n))
+O(n)
+O(n^2)
+O(1)
+What is the complexity function called exponential:
+
+470.
+•
+•
+•
+√
+
+•
+
+O(n^2)
+O(n*log(n))
+O(n)
+O(2^n)
+O(1)
+Choose the correct representation of the arithmetic expression (x+3y)/5xy in an algorithmic language:
+
+471.
+√
+
+•
+•
+•
+•
+
+(x + 3*y) / (5*x*y)
+x + 3*y / 5*x*y
+x + 3y / 5xy
+x + 3*y / (5*x*y)
+(x + 3y) / 5xy
+After executing the algorithm a=17, b=25 if a<b then a=a+2 else a=a+b. What will be the value of a?
+
+472.
+•
+√
+
+•
+•
+•
+
+21
+19
+23
+25
+50
+
+As a result of executing the algorithm a=3, b=4, c=5, d=6 if c<b then d=a+3 else c=c+a. What will be the value of a+b+c+d?
+
+473.
+•
+•
+•
+√
+
+•
+
+9
+11
+8
+21
+7
+As a result of executing the algorithm a=12, b=21, c=10 if a>b then a=a+3, c=c+a else c=a+b+c/2. What will be the value of variable c?
+
+474.
+•
+•
+•
+•
+√
+
+25
+84
+64
+43
+38
+As a result of executing the algorithm a=45, b=24 if a>b then a=a-5 else print a. What will be the value of variable a?
+
+475.
+•
+•
+•
+•
+√
+
+45
+25
+30
+35
+40
+After executing the algorithm a=12, b=18 if a > b then print b else a=a+2, b=b+1 the value of a equals...
+
+476.
+•
+•
+•
+√
+
+•
+
+19
+21
+22
+14
+23
+There is an array of numbers 8,23,5,65,44,33,1,6. How many iterations are required to sort the array by the Bubble Sort algorithm?
+
+477.
+√
+
+•
+•
+•
+•
+
+4
+28
+18
+3
+10
+Write down the state of the list [7,3,9,4,2,5,6,1,8] after the fifth pass of the Selection Sort algorithm.
+
+478.
+•
+•
+•
+√
+
+•
+
+[1,3,9,4,2,5,6,7,8]
+[7,3,9,4,2,5,6,1,8]
+[7,3,2,4,9,5,6,1,8]
+[1,2,3,4,5,9,6,7,8]
+[1,3,9,4,7,5,6,1,8]
+Write down the state of the list [7,3,9,4,2,5,6,1,8] after the fifth pass of the Insertion Sort algorithm.
+
+479.
+•
+•
+•
+•
+√
+
+[7,3,2,4,9,5,6,1,8]
+[7,3,9,4,2,5,6,1,8]
+[1,3,9,4,7,5,6,1,8]
+[1,3,9,4,2,5,6,7,8]
+[2,3,4,7,9,5,6,1,8]
+A 10-element array composed of random numbers is sorted according to the Bubble Sort algorithm. How many comparison operations
+are needed?
+
+480.
+•
+
+8
+
+•
+•
+√
+
+•
+
+9
+10
+45
+56
+During the sorting process, neighboring elements are compared. What is the sorting algorithm?
+
+481.
+•
+•
+√
+
+•
+•
+
+Selection Sort
+MergeSort
+Bubble Sort
+Quisk Sort
+İnsertion Sort
+During the sorting process, the entire array being sorted and each of its parts are divided into two parts. Which algorithm performs this
+sorting?
+
+482.
+•
+•
+•
+√
+
+•
+
+Radix Sort
+Selection Sort
+Insertion Sort
+Quisk Sort
+Bubble Sort
+Which of these sorting algorithms has complexity O(n*n) in the best, average, and worst cases?
+
+483.
+•
+•
+•
+√
+
+•
+
+MergeSort
+Radix Sort
+Insertion Sort
+Selection Sort
+Quisk Sort
+Which of these sorting algorithms have the best, average, and worst complexity determined by the same expression?
+
+484.
+√
+
+•
+•
+•
+•
+
+Merge Sort
+İnsertion Sort
+Quisk Sort
+Bubble Sort
+Radix Sort
+During the sorting process, a large number of elements may be moved across the array. Which algorithm performs this sorting?
+
+485.
+√
+
+•
+•
+•
+•
+
+Insertion Sort
+Bubble Sort
+Quisk Sort
+Merge Sort
+Selection Sort
+Which expression defines the complexity of the Bubble Sort algorithmin the average case?
+
+486.
+•
+•
+√
+
+•
+•
+
+O(n!)
+O(n)
+O(n*n)
+O(n*ln n)
+O(ln n)
+Which expression defines the complexity of the Selection Sort algorithm in the average case?
+
+487.
+√
+
+•
+•
+•
+
+O(n*n)
+O(n!)
+O(ln n)
+O(n*ln n)
+
+•
+
+Leaves of the tree...
+
+488.
+√
+
+•
+•
+•
+•
+
+Vertices with one incoming edge and no outgoing edges
+Called a vertex with all descendants.
+A vertex with no incoming edges.
+Vertices with one incoming edge and one or more outgoing edges.
+There are no correct answers.
+Nodes of the tree...
+
+489.
+√
+
+•
+•
+•
+•
+
+Vertices with one incoming edge and one or more outgoing edges
+A vertex with no incoming edges.
+Called a vertex with all descendants.
+There are no correct answers.
+Vertices with one incoming edge and no outgoing edges.
+The root of the tree...
+
+490.
+√
+
+•
+•
+•
+•
+
+A vertex with no incoming edges
+Vertices with one incoming edge and one or more outgoing edges.
+Vertices with one incoming edge and no outgoing edges.
+It is a node that has no child nodes.
+Called a vertex with all descendants.
+The method of dynamic programming is applied to solve...
+
+491.
+•
+√
+
+•
+•
+•
+
+Only linear programming tasks.
+Multi-step tasks
+By the method of solving statistical problems.
+Macroeconomic problems.
+Tasks that cannot be represented as a sequence of individual steps.
+One of the following statements is not true for a red-black tree:
+
+492.
+•
+√
+
+•
+•
+•
+
+Each vertex can be either red or black.
+Not a self-balancing binary search tree
+Each leaf is black.
+If a vertex is red, then both of its children are black.
+There cannot be any colorless vertices or vertices of a different color.
+Write down the state of the list 3,5,2,9,8,1,6,4,7 after the fifth pass of the Insertion Sort algorithm.
+
+493.
+•
+•
+•
+√
+
+•
+
+3, 4, 2, 9,8,1,6,7, 5
+1, 5, 7, 9,8,3,6,4, 7
+3, 5, 2, 8,9,1,6,4, 7
+1,2,3,5,8,9,6,4,7
+1, 5, 2, 9,8,7,6,4,3
+Write down the state of the list 7,3,9,4,2,5,6,1,8 after the fourth pass of the Insertion Sort algorithm.
+
+494.
+√
+
+•
+•
+•
+•
+495.
+
+O(n)
+
+2,3,4,7,9,5,6,1,8
+8,3,9,4,2, 5,6,1,7
+7,3,1,4,2, 5,6,9,8
+37,9,4,2, 5,6,1,8
+9,3,7,4,2, 5,6,1,8
+Which of these algorithms is not recursive?
+
+•
+•
+•
+√
+
+•
+
+Euclid
+Binary Search
+Quisk Sort
+Heron
+Merge Sort
+Show a modified version of the Bubble Sort algorithm.
+
+496.
+•
+√
+
+•
+•
+•
+
+Quisk Sort
+Cocktail Sort
+Tim Sort
+Merge sort
+Radix Sort
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the third pass?
+
+497.
+•
+•
+•
+•
+√
+
+15
+5
+30
+35
+45
+The array {5,3,8,0,7,4,9,1,6,2} is sorted by the Shell algorithm. How many comparisons are made in the second pass?
+
+498.
+•
+√
+
+•
+•
+•
+
+15
+20
+35
+5
+11
+A full binary tree can be generated using ______
+
+499.
+•
+•
+√
+
+•
+•
+
+pre-order traversal
+post-order traversal
+post-order and pre-order traversal
+post-order and in-order traversal
+in-order traversal
+Which of the following pair’s traversals on a binary tree can build the tree uniquely?
+
+500.
+•
+•
+√
+
+•
+
+level order and preorder
+post-order and level order
+post-order and in-order
+post-order and pre-order
+What is the possible number of binary trees that can be created with 3 nodes, giving the sequence N, M, L when traversed in post-order.
+
+501.
+•
+•
+•
+√
+
+•
+
+15
+6
+8
+5
+3
+In postorder traversal of binary tree right subtree is traversed before visiting root.
+
+502.
+•
+•
+•
+√
+
+False
+None of them
+All of them
+True
+
+In a binary search tree, which of the following traversals would print the numbers in the ascending order?
+
+503.
+•
+•
+•
+•
+√
+
+Which of the following graph traversals closely imitates level order traversal of a binary tree?
+
+504.
+•
+•
+•
+•
+√
+
+Binary Search
+Depth First Search
+Linear Search
+Depth & Breadth First Search
+Breadth First Search
+What is the time complexity of level order traversal? (d is the tree depth and n is the number of nodes)
+
+505.
+√
+
+•
+•
+•
+•
+
+O(n)
+O(d)
+O(logd)
+O(1)
+O(nlogd)
+What is the space complexity of the in-order traversal in the recursive fashion? (d is the tree depth and n is the number of nodes)
+
+506.
+•
+•
+•
+√
+
+•
+
+O(logd)
+O(nlogd)
+O(1)
+O(d)
+O(n)
+For the tree below, write the level-order traversal.
+
+507.
+
+•
+√
+
+•
+•
+•
+508.
+
+Level-order traversal
+None of them
+Pre-order traversal
+Post-order traversal
+In-order traversal
+
+2, 7, 2, 6, 5, 11, 5, 9, 4
+2, 7, 5, 2, 11, 9, 6, 5, 4
+7, 2, 6, 5, 11, 5, 9, 4, 2
+2, 7, 5, 6, 11, 2, 5, 4, 9
+2, 5, 11, 6, 7, 4, 9, 5, 2
+For the tree below, write the in-order traversal.
+
+•
+•
+•
+•
+√
+
+7, 2, 6, 5, 11, 5, 9, 4, 2
+2, 7, 2, 6, 5, 11, 5, 9, 4
+6, 5, 2, 11, 7, 4, 9, 5, 2
+2, 7, 6, 5, 11, 2, 9, 5, 4
+6, 2, 5, 7, 11, 2, 5, 9, 4
+A graph in which all vertices have the same degree is called...
+
+509.
+•
+•
+•
+√
+
+•
+
+Star-shaped.
+Connected.
+Weighted.
+Regular.
+Bipartite.
+There is a perfectly balanced binary tree containing 31 nodes. What is the height of this tree?
+
+510.
+•
+√
+
+•
+•
+•
+
+4 levels
+5 levels
+2 levels
+1 levels
+3 levels
+Which of the following statements is a greedy approach?
+
+511.
+•
+√
+
+•
+•
+•
+
+One step is chosen, the next two steps are considered.
+At each stage, the best ones for this stage are selected.
+When making a decision about one step, the next step is considered.
+The problem is divided into subtasks, and the solution to the main problem is found from the solution to the subtasks.
+It goes from the end to the beginning.
+Which of the following can be considered a good case for Binary search trees?
+
+512.
+√
+
+•
+•
+•
+•
+
+The array is created of random numbers.
+The array is created of ordered numbers.
+The array is created of even numbers.
+The array is created of odd numbers.
+The number of elements in the array is odd.
+Which of the following is considered the worst case for Binary search trees?
+
+513.
+√
+
+•
+•
+•
+•
+
+The array is created of ordered numbers.
+The number of elements in the array is odd.
+The array is created of odd numbers.
+The array is created of even numbers.
+The array is created of random numbers.
+
+Which of the following is the correct definition of the stack logic?
+
+514.
+√
+
+•
+•
+•
+•
+
+The last written value is used first.
+The first written value is used first.
+The last written value is used last.
+Each one
+None of them
+Which of the following is the correct definition of the queue logic?
+
+515.
+•
+√
+
+•
+•
+•
+
+The last written value is used first.
+The first written value is used first.
+The first written value is used last.
+Each one
+None of them
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the in-order traversal of this
+BST.
+
+516.
+•
+•
+•
+•
+√
+
+20,12,1,6,5,14,30,32,3
+1,3,5,14,12,30,32,20,6
+1,3,6,5,14,30,32,12,20
+20,12,5,3,1,6,14,30,32
+1,3,5,6,12,14,20,30,32
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the post-order traversal of this
+BST.
+
+517.
+•
+√
+
+•
+•
+•
+
+1,3,5,14,12,30,32,20,6
+1,3,6,5,14,12,30,32,20
+20,12,5,3,1,6,14,30,32
+1,3,6,5,14,30,32,12,20
+20,12,1,6,5,14,30,32,3
+A binary search tree is created by inserting in order the following integers: 20,12,14,5,3,6,32,30,1. Find the pre-order traversal of this
+BST.
+
+518.
+√
+
+•
+•
+•
+•
+
+20,12,5,3,1,6,14,30,32
+1,3,5,6,12,14,20,30,32
+1,3,6,5,14,30,32,12,20
+1,3,5,14,12,30,32,20,6
+20,12,1,6,5,14,30,32,3
+Which of the given can be as a post-order traversal on the BST?
+
+519.
+√
+
+•
+•
+•
+•
+
+AB+
+A+CB
+AB+C
+A+B
++AB
+Which of the given can be as a pre-order traversal on the BST?
+
+520.
+•
+•
+√
+
+•
+•
+
+ACB+
+AB+C
++AB
+A+B
+AB+
+
+
